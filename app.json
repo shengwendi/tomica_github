@@ -1,0 +1,29 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/tlvneo/tlvneo",
+    "pages/tlv/tlv"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "tomica合金车",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "红白盒"
+      },
+      {
+        "pagePath": "pages/tlv/tlv",
+        "text": "tlv"
+      },
+      {
+        "pagePath": "pages/tlvneo/tlvneo",
+        "text": "tlvneo"
+      }
+    ]
+  }
+}

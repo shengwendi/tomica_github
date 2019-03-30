@@ -1,0 +1,19 @@
+<!--tlv.wxml-->
+<view class="container tlv">
+	<scroll-view scroll-y>
+      <view class='tlv-tit'>NEW LINEUP</view>
+	    <view class="ul">
+        <view class="li" wx:for="{{datatlv}}" wx:for-item="item" wx:for-index="idx" wx:key="idx">
+			    <view class="thumb">
+            <view class='loading-pic'></view>
+            <image src='{{item.img}}' mode='scaleToFill' lazy-load></image>
+          </view>
+          <view class='category'>{{item.category}}</view>
+          <view class="spec">
+            <view class='h3'>{{item.specTitle}}</view>
+            <text class='p'>{{item.specInfo}}</text>
+          </view>
+	      </view>
+	    </view>
+	</scroll-view>
+</view>
