@@ -1,21 +1,17 @@
 /**index.wxss**/
-.userinfo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+.tomica{background:#FFF; padding:18rpx;}
 
-.userinfo-avatar {
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
+.car-list{}
+.car-list .h2{
+  font-size:16px;
+  font-weight:bold;
+  color:#FD0202;
 }
+.car-list .category_tomica{}
+.car-list .title-box{}
+.car-list .CarName{}
+.car-list .CarPrice{}
 
-.userinfo-nickname {
-  color: #aaa;
-}
 
-.usermotto {
-  margin-top: 200px;
-}
+
+
