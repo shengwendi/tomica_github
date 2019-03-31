@@ -1,17 +1,63 @@
 /**index.wxss**/
-.tomica{background:#FFF; padding:18rpx;}
+.tomica{background:#FFF; padding:0 20rpx 20px;}
 
-.car-list{}
+.picker{
+  font-size:16px;
+  border:1rpx solid #252525;
+  padding:5px 10px;
+  border-radius:2px;
+  position:relative;
+  margin-top:10px;
+}
+.picker::after{
+  content: '';
+  position: absolute;
+  top: 12px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 5px 5px 0 5px;
+  border-color: #252525 transparent transparent transparent;
+}
+
 .car-list .h2{
   font-size:16px;
   font-weight:bold;
   color:#FD0202;
+  margin-top:20px;
 }
-.car-list .category_tomica{}
-.car-list .title-box{}
-.car-list .CarName{}
-.car-list .CarPrice{}
-
-
-
-
+.car-list .category_tomica{
+  margin-top:20px;
+}
+.car-list .title-box{
+  border-left: 4px solid #FD0202;
+  padding-left: 10px;
+  margin-bottom: 25px;
+}
+.car-list .CarName{
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px dotted #D2D2D2;
+}
+.car-list .CarPrice{
+  font-size:12px;
+}
+.car-list .item-Wrapper{
+  position:relative;
+}
+.car-list .car-pic{
+  text-align: center;
+}
+.car-list .car-pic image{
+  width:100%;
+}
+.car-list .car-spec{
+  padding: 5px;
+  background-color: #F2F2F2;
+}
+.car-list .car-spec .p{
+  font-size:12px;
+}
