@@ -17,6 +17,7 @@
       </view>
       <view class='item-Wrapper'>
         <view class='car-pic'>
+          <view class='loading-pic'></view>
           <image src='{{item.carImg}}' mode='aspectFit'></image>
         </view>
       </view>

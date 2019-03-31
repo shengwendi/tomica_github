@@ -14,16 +14,24 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "红白盒"
+        "text": "トミカ",
+        "iconPath": "images/ic1.png",
+        "selectedIconPath": "images/ic1nor.png"
       },
       {
         "pagePath": "pages/tlv/tlv",
-        "text": "tlv"
+        "text": "tlv",
+        "iconPath": "images/ic2.png",
+        "selectedIconPath": "images/ic2nor.png"
       },
       {
         "pagePath": "pages/tlvneo/tlvneo",
-        "text": "tlvneo"
+        "text": "tlvneo",
+        "iconPath": "images/ic3.png",
+        "selectedIconPath": "images/ic3nor.png"
       }
-    ]
+    ],
+    "color": "#cccccc",
+    "selectedColor": "#222222"
   }
 }
