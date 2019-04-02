@@ -10,7 +10,13 @@
 
   <!-- car list start -->
   <view class='car-list'>
-    <view class='category_tomica' wx:for="{{datatomica[index]}}" wx:for-item="item" wx:for-index="idx" wx:key="idx">
+    <view 
+      class='category_tomica' 
+      wx:for="{{datatomica[index]}}" 
+      wx:for-item="item" 
+      wx:for-index="idx" 
+      wx:key="idx"
+    >
       <view class='title-box'>
         <view class='CarName'>{{item.carName}}</view>
         <view class='CarPrice'>{{item.carPrice}}</view>
@@ -25,39 +31,6 @@
         <text class='p'>{{item.carInfo}}</text>
       </view>
     </view>
-    <!-- <block>
-      <view class='h2'>トミカシリーズ</view>
-      <view class='category_tomica'>
-        <view class='title-box'>
-          <view class='CarName'>No.49 トヨタ コースター ようちえんバス</view>
-          <view class='CarPrice'>2019年5月発売予定 メーカー希望小売価格 450円(税抜)</view>
-        </view>
-        <view class='item-Wrapper'>
-          <view class='car-pic'>
-            <image src='https://www.takaratomy.co.jp/products/tomica/new/images/1905/049.jpg' mode='aspectFit'></image>
-          </view>
-        </view>
-        <view class='car-spec'>
-          <text class='p'>トヨタ コースター ようちえんバス がトミカになって登場！</text>
-        </view>
-      </view>
-
-      <view class='h2'>ドリームトミカ</view>
-      <view class='category_tomica'>
-        <view class='title-box'>
-          <view class='CarName'>No.49 トヨタ コースター ようちえんバス</view>
-          <view class='CarPrice'>2019年5月発売予定 メーカー希望小売価格 450円(税抜)</view>
-        </view>
-        <view class='item-Wrapper'>
-          <view class='car-pic'>
-            <image src='https://www.takaratomy.co.jp/products/tomica/new/images/1905/049.jpg' mode='aspectFit'></image>
-          </view>
-        </view>
-        <view class='car-spec'>
-          <text class='p'>すみっコぐらしが、アイスクリームワゴン車をモチーフにしたかわいいデザインになってドリームトミカに登場！\nサスペンション、カウンター開閉\n© 2019 San-X Co., Ltd. All Rights Reserved.</text>
-        </view>
-      </view>
-    </block> -->
   </view>
   <!-- car list end -->
 </view>
