@@ -18,5 +18,6 @@ Page({
     this.setData({
       datatomica: datatomica.tomicalist
     })
+    wx.showShareMenu(); // 转发
   }
 })

@@ -9,6 +9,7 @@ Page({
   },
   onLoad: function () {
     this.initNum(this.data.listNum);
+    wx.showShareMenu(); // 转发
   },
   // 加载数据方法
   initNum: function (num) {
