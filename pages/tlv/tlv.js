@@ -5,11 +5,21 @@ var datatlv = require('../../data/datatlv.js');
 
 Page({
   data: {
-    
+    listNum: 12
   },
   onLoad: function () {
+    this.initNum(this.data.listNum);
+  },
+  // 加载数据方法
+  initNum: function (num) {
+    var initArr = datatlv.tlvlist.slice(0, num);
     this.setData({
-      datatlv: datatlv.tlvlist
+      datatlv: initArr
     })
+  },
+  // 加载更多
+  loadMore: function() {
+    this.data.listNum += 12;
+    this.initNum(this.data.listNum);
   }
 })
