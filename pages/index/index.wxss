@@ -28,7 +28,7 @@
   margin-top:20px;
 }
 .car-list .category_tomica{
-  margin-top:20px;
+  margin-top:30px;
 }
 .car-list .title-box{
   border-left: 4px solid #FD0202;

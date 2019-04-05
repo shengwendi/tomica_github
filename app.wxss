@@ -8,6 +8,9 @@ view {
   padding: 0 0 15px; 
   background: #181818;
 }
+.fn-hide{
+  display:none;
+}
 /* tlv */
 .tlv-tit{
   font-weight: bold;
@@ -28,7 +31,9 @@ view {
 .tlv .ul .li{
   width: 340rpx;
   background: #FFFFFF;
-  margin-top: 20rpx;
+  margin-top: 40rpx;
+  border-radius: 8rpx;
+  overflow: hidden;
 }
 .tlv .ul .li .thumb{
   width: 340rpx; 
@@ -101,3 +106,17 @@ view {
   background-size:10px 7px;
   margin-left:35px;
 }
+
+/* 返回顶部 */
+.gotop{
+  width:40px;
+  height:40px;
+  border:1rpx solid rgba(0,0,0,0.1);
+  border-radius:50%;
+  position:fixed;
+  bottom:10px;
+  right:10px;
+  z-index:99;
+  background-color:rgba(255,255,255,0.7);
+}
+

@@ -1,8 +1,8 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/tlvneo/tlvneo",
-    "pages/tlv/tlv"
+    "pages/tlv/tlv",
+    "pages/tlvneo/tlvneo"
   ],
   "window":{
     "backgroundTextStyle":"light",
