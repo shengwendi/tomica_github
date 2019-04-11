@@ -1,4 +1,16 @@
 var datatlv = [
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302094&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-182b スバル360 コンバーチブル 61年式 (幌開き)",
+    "specInfo": "発売時期：2019年8月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：スバル"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302087&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-182a スバル360 コンバーチブル 60年式 (幌閉じ)",
+    "specInfo": "発売時期：2019年8月\n価格：2,400円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：スバル"
+  },
   { "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302032&num=1", "category": "トミカリミテッドヴィンテージ", "specTitle": "LV-181b クラウンスーパーデラックス（銀）", "specInfo": "発売時期：2019年7月\n価格：2,400円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車" }, 
   { "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302025&num=1", "category": "トミカリミテッドヴィンテージ", "specTitle": "LV-181a クラウン スーパーデラックス（金）", "specInfo": "発売時期：2019年7月\n価格：2,400円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車" }, 
   { "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302001&num=1", "category": "トミカリミテッドヴィンテージ", "specTitle": "LV-180a エルフバキュームカー（白/緑）", "specInfo": "発売時期：2019年6月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：いすゞ自動車" }, 
