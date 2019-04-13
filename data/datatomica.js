@@ -6,6 +6,57 @@
 }*/
 
 var datatomica = [
+  // 201906
+  [
+    {
+      "carName": "No.11 エンツォ フェラーリ",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/011.jpg",
+      "carInfo": " エンツォ フェラーリがトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "No.27 トヨタ ジャパンタクシー",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/027.jpg",
+      "carInfo": "トヨタ ジャパンタクシーがトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "No.135 ミシュラン モータースポーツトランスポーター",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/135.jpg",
+      "carInfo": " ミシュラン モータースポーツトランスポーターがトミカになって登場！\n本体取り外し／左右可動／後部パネル開閉"
+    },
+    {
+      "carName": "はこんであそぼう！恐竜運搬車セット",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 2,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/gift_kr_01.jpg",
+      "carInfo": "はこんであそぼう！恐竜をはこぶ運搬車セットがトミカギフトセットから新登場！ \n・いすゞ ギガ 恐竜運搬車（ステゴサウルス）\n・いすゞ ギガ 恐竜運搬車（ティラノサウルス）\n・首長竜運搬車（フタバスズキリュウ）"
+    },
+    {
+      "carName": "No.13 ディーノ 246 GT",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/tp_13.jpg",
+      "carInfo": "ディーノ 246 GTがトミカプレミアムで登場！\nサスペンション"
+    },
+    {
+      "carName": "トミカ4D トヨタ 86GR",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/t4d_86_gr.jpg",
+      "carInfo": "走行・手ころがし遊びが進化したトミカ4Dにトヨタ 86GRが登場!!"
+    },
+    {
+      "carName": "トミカ4D トヨタ 86GR TOYOTA GAZOO Racing Color ver.",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/t4d_86_gr_rcv.jpg",
+      "carInfo": "走行・手ころがし遊びが進化したトミカ4Dにトミカ4D トヨタ 86GR TOYOTA GAZOO Racing Color ver.が登場!!"
+    },
+    {
+      "carName": "トミカ4D 日産 GT-R 覆面パトロールカー",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/t4d_gtr_fukumen.jpg",
+      "carInfo": "走行・手ころがし遊びが進化したトミカ4Dに日産 GT-R 覆面パトロールカーが登場!!"
+    },
+  ],
   // 201905
   [
     {
