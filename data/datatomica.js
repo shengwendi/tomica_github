@@ -56,6 +56,24 @@ var datatomica = [
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/t4d_gtr_fukumen.jpg",
       "carInfo": "走行・手ころがし遊びが進化したトミカ4Dに日産 GT-R 覆面パトロールカーが登場!!"
     },
+    {
+      "carName": "トミカ武将コレクション 2019 いざ！関ヶ原へ！！ 本多忠勝トミカ スバル WRX S4",
+      "carPrice": "2019年6月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/bsc_subaru_s4.jpg",
+      "carInfo": "戦国武将をイメージした「トミカ武将コレクション 2019 いざ！関ヶ原へ!!」シリーズ第三弾として\n本多忠勝トミカ（スバル WRX S4）が登場！\n「トミカ武将コレクション 2019 いざ！関ヶ原へ!!」は全6種を予定しています。"
+    },
+    {
+      "carName": "トミカショップオリジナル　ランボルギーニ ムルシエラゴ 消防指揮車仕様",
+      "carPrice": "2019年6月1日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/so_tomicashop.jpg",
+      "carInfo": "ランボルギーニ ムルシエラゴ 消防指揮車仕様がトミカショップオリジナル商品として登場！"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム 日産 スカイライン GT-R セット トミカプレミアム5周年記念仕様",
+      "carPrice": "2019年6月22日(土)発売予定 価格 2,800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/so_ttm_01.jpg",
+      "carInfo": "「日産 スカイライン GT-Rセット トミカプレミアム５周年記念仕様」が、トミカプレミアムで登場！\nトミカプレミアム5周年を記念したセットになっております。\nサスペンション、左右ドア開閉 ※全種共通\n・BNR32\n・BCNR33\n・BNR34"
+    }
   ],
   // 201905
   [
