@@ -26,7 +26,7 @@ var datatlvneo = [
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302322&num=1",
     "category": "トミカリミテッドヴィンテージ NEO",
-    "specTitle": "LV-N190b ランサーGSRエボリューションV（黒）",
+    "specTitle": "LV-N190b ランサーGSRエボリューションVI（黒）",
     "specInfo": "発売時期：2019年9月\n価格：2,400円（税抜）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：三菱自動車"
   },
   {
