@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302063&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-183a ブルーバード パトカー（警視庁）",
+    "specInfo": "発売時期：2019年9月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302056&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-65c ブルーバードファンシーデラックス",
+    "specInfo": "発売時期：2019年9月\n価格：2,400円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302094&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-182b スバル360 コンバーチブル 61年式 (幌開き)",
