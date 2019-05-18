@@ -1,8 +1,10 @@
 {
   "pages":[
+    "pages/tlvneo/tlvneo",
+    "pages/tlvneo/tlvneoSearch",
     "pages/index/index",
-    "pages/tlv/tlv",
-    "pages/tlvneo/tlvneo"
+    "pages/tlv/tlv"
+    
   ],
   "window":{
     "backgroundTextStyle":"light",

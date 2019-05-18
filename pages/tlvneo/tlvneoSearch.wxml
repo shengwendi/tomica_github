@@ -1,0 +1,29 @@
+<view>
+  <view>
+    <input type='text' class='input-search' value='{{searchValue}}' bindinput='searchValueInput' auto-focus />
+    <view bindtap='funSearch' data-keywords='{{searchValue}}'>搜索</view>
+  </view>
+
+  <view class="container tlv">
+    <scroll-view scroll-y>
+        <view class="ul">
+          <view class="li" wx:for="{{searchList}}" wx:for-item="item" wx:for-index="idx" wx:key="idx">
+            <view class="thumb">
+              <view class='loading-pic'></view>
+              <image src='{{item.img}}' mode='scaleToFill' lazy-load></image>
+            </view>
+            <view class='category'>{{item.category}}</view>
+            <view class="spec">
+              <view class='h3'>{{item.specTitle}}</view>
+              <text class='p'>{{item.specInfo}}</text>
+            </view>
+          </view>
+        </view>
+    </scroll-view>
+  </view>
+
+  <view class="search_no" wx:if="{{resultEmp}}">
+    <text>很抱歉,没有找到您要搜索的资料/(ㄒoㄒ)/~~</text>
+  </view>
+
+</view>

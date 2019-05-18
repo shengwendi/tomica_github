@@ -39,5 +39,11 @@ Page({
         over: true
       })
     }
+  },
+  // 跳转到搜索页面
+  jumpSearch: function () {
+    wx.navigateTo({
+      url: 'tlvneoSearch'
+    });
   }
 })

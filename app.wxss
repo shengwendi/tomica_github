@@ -23,10 +23,11 @@ view {
 }
 .tlv .ul{
   overflow: hidden; 
-  width: 100%; 
+  width: 100%;
+  padding:0 18rpx;
   display: flex; 
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .tlv .ul .li{
   width: 340rpx;
@@ -118,5 +119,11 @@ view {
   right:10px;
   z-index:99;
   background-color:rgba(255,255,255,0.7);
+}
+
+/* 搜索 */
+.item-search{background:#FFF; height:50rpx; line-height:50rpx; margin:0 18rpx; padding:0 10rpx; font-size:28rpx; color:#999;}
+.input-search{
+  margin:0 18rpx; padding:0 10rpx; font-size:28rpx; color:#999; border:1px solid #000;
 }
 
