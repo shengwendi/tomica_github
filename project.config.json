@@ -15,6 +15,8 @@
 	"appid": "wx0e3228690e1bc164",
 	"projectname": "%E5%A4%9A%E7%BE%8E%E5%8D%A1%E5%90%88%E9%87%91%E8%BD%A6",
 	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

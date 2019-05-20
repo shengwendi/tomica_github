@@ -1,14 +1,14 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/tlv/tlv",
     "pages/tlvneo/tlvneo"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "tomica合金车",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
     "list": [
@@ -33,5 +33,6 @@
     ],
     "color": "#cccccc",
     "selectedColor": "#222222"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
