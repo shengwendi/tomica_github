@@ -6,6 +6,36 @@
 }*/
 
 var datatomica = [
+  // 201908
+  [
+    {
+      "carName": "まちがうごくよ！つみおろし工事現場",
+      "carPrice": "2019年8月発売予定 メーカー希望小売価格 3,800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/tw_kojigenba.jpg",
+      "carInfo": "トラックの動力で土砂玉をくみ上げ、建設車両のトミカと遊べる工事現場です。ダイヤルを手で回して手動で遊ぶこともできます。別売りのぐるぐるバスタウンのバスと連動して遊ぶこともできます。"
+    },
+    {
+      "carName": "まちがうごくよ！立体駐車場",
+      "carPrice": "2019年8月発売予定 メーカー希望小売価格 2,800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/tw_rittiparking.jpg",
+      "carInfo": "手動ハンドルでプレートが上下してトミカを3台駐車できる立体駐車場です。別売り「トミカと走ろう！ぐるぐるバスタウン」の電動バスや「まちがうごくよ！つみおろし工事現場」の電動トラックを背面の道路に停めると駐車プレートが自動的に上下します。"
+    }
+  ],
+  // 201907
+  [
+    {
+      "carName": "No.67 ホンダ CR-V",
+      "carPrice": "2019年7月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/067.jpg",
+      "carInfo": "ホンダ CR-Vがトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "でっかく遊ぼう！ＤＸトミカタワー",
+      "carPrice": "2019年7月発売予定 メーカー希望小売価格 7,980円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/tw_dxtower.jpg",
+      "carInfo": "全高80cmの超ドデカいトミカのタワーが登場！スパイラルスカイスロープから迫力のトミカ一斉走行！"
+    }
+  ],
   // 201906
   [
     {
