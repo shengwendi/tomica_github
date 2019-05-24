@@ -9,6 +9,12 @@ var datatomica = [
   // 201908
   [
     {
+      "carName": "No.117 TOYOTA GR Supra",
+      "carPrice": "2019年8月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/117.jpg",
+      "carInfo": "TOYOTA GR Supraがトミカになって登場！\nサスペンション\n一般予約開始日は5月31日となります。"
+    },
+    {
       "carName": "まちがうごくよ！つみおろし工事現場",
       "carPrice": "2019年8月発売予定 メーカー希望小売価格 3,800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/tw_kojigenba.jpg",
@@ -28,6 +34,18 @@ var datatomica = [
       "carPrice": "2019年7月発売予定 メーカー希望小売価格 450円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/067.jpg",
       "carInfo": "ホンダ CR-Vがトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "No.78 日産 GT-R NISMO 2020 モデル",
+      "carPrice": "2019年7月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/078.jpg",
+      "carInfo": "日産 GT-R NISMO 2020 モデルがトミカになって登場！\nサスペンション\n一般予約開始日は5月31日となります。 "
+    },
+    {
+      "carName": "GT-R 50th アニバーサリーコレクション",
+      "carPrice": "2019年7月発売予定 メーカー希望小売価格 2,400円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/gtr_50th.jpg",
+      "carInfo": "GT-R 50th アニバーサリーコレクションがトミカギフトセットになって登場！\n・スカイライン 2000 GT - R(PGC10)\n・スカイライン GT - R(BNR32)\n・NISSAN GT - R(R35) 50th Anniversary\n・NISSAN GT - R NISMO(R35) 2020 model\n一般予約開始日は5月31日となります。 "
     },
     {
       "carName": "でっかく遊ぼう！ＤＸトミカタワー",
