@@ -1,5 +1,5 @@
-// pages/tlvneo/tlvneoSearch.js
-var datatlvneo = require('../../data/datatlvneo.js');
+// pages/tlv/tlvSearch.js
+var datatlv = require('../../data/datatlv.js');
 
 Page({
 
@@ -20,17 +20,17 @@ Page({
   },
 
   // 获取input value值
-  searchValueInput: function(e) {
+  searchValueInput: function (e) {
     let value = e.detail.value;
     this.setData({
       searchValue: value,
     });
   },
   // 搜索
-  funSearch: function(e) {
+  funSearch: function (e) {
     let keywords = e.currentTarget.dataset.keywords.trim();
-    if(!keywords) return;
-    let allCar = datatlvneo.tlvneolist; // 获取所有的车
+    if (!keywords) return;
+    let allCar = datatlv.tlvlist; // 获取所有的车
     let searchList = allCar.filter((item) => {
       return item.specTitle.toLowerCase().match(keywords.toLowerCase());
     });

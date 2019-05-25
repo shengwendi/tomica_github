@@ -1,3 +1,4 @@
+<!--pages/tlv/tlvSearch.wxml-->
 <view>
   <view class='search-wrap'>
     <input type='text' class='input-search' value='{{searchValue}}' bindinput='searchValueInput' auto-focus />
@@ -24,7 +25,7 @@
   </view>
 
   <view class="search-no" wx:if="{{resultEmp}}">
-    <text>很抱歉,没有找到您要搜索的车型/(ㄒoㄒ)/\n请尝试n190,honda,rx-7,gt-r等关键词</text>
+    <text>很抱歉,没有找到您要搜索的车型/(ㄒoㄒ)/\n请尝试183a,jaf,gtr等关键词</text>
   </view>
 
 </view>

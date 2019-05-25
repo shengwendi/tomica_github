@@ -1,1 +1,5 @@
 /* pages/tlvneo/tlvneoSearch.wxss */
+page{
+  background:#181818;
+}
+

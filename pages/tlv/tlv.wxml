@@ -1,7 +1,8 @@
 <!--tlv.wxml-->
 <view class="container tlv">
 	<scroll-view scroll-y>
-      <view class='tlv-tit'>NEW LINEUP</view>
+      <view class="item-search" bindtap="jumpSearch">搜索</view>
+      <view class='tlv-tit'>New Lineup</view>
 	    <view class="ul">
         <view class="li" wx:for="{{datatlv}}" wx:for-item="item" wx:for-index="idx" wx:key="idx">
 			    <view class="thumb">
