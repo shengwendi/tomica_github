@@ -25,6 +25,18 @@ var datatomica = [
       "carPrice": "2019年8月発売予定 メーカー希望小売価格 2,800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/tw_rittiparking.jpg",
       "carInfo": "手動ハンドルでプレートが上下してトミカを3台駐車できる立体駐車場です。別売り「トミカと走ろう！ぐるぐるバスタウン」の電動バスや「まちがうごくよ！つみおろし工事現場」の電動トラックを背面の道路に停めると駐車プレートが自動的に上下します。"
+    },
+    {
+      "carName": "トミカプレミアムRS 日産 スカイライン GT-R V・specII Nür(ベイサイドブルー)",
+      "carPrice": "2019年8月発売予定 メーカー希望小売価格 3,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/tprs_gtrv_spec2_b.jpg",
+      "carInfo": "トミカプレミアムRS 日産 スカイライン GT-R V・specII Nür (ベイサイドブルー)がトミカプレミアムRSで登場！\nサスペンション、左右ドア開閉\n一般予約開始日は5月31日となります。"
+    },
+    {
+      "carName": "トミカプレミアムRS 日産 スカイライン GT-R V・specII Nür(ミレニアムジェイド)",
+      "carPrice": "2019年8月発売予定 メーカー希望小売価格 3,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/tprs_gtrv_spec2_g.jpg",
+      "carInfo": "トミカプレミアムRS 日産 スカイライン GT-R V・specII Nür (ミレニアムジェイド)がトミカプレミアムRSで登場！\nサスペンション、左右ドア開閉\n一般予約開始日は5月31日となります。"
     }
   ],
   // 201907
@@ -52,6 +64,24 @@ var datatomica = [
       "carPrice": "2019年7月発売予定 メーカー希望小売価格 7,980円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/tw_dxtower.jpg",
       "carInfo": "全高80cmの超ドデカいトミカのタワーが登場！スパイラルスカイスロープから迫力のトミカ一斉走行！"
+    },
+    {
+      "carName": "No.01 トミカ スカイライン ターボ スーパーシルエット",
+      "carPrice": "2019年7月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/tp01_skyline.jpg",
+      "carInfo": "トミカ スカイライン ターボ スーパーシルエットがトミカプレミアムで登場！\n一般予約開始日は5月31日となります。"
+    },
+    {
+      "carName": "No.14 マクラーレン セナ",
+      "carPrice": "2019年7月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/tp14_sena.jpg",
+      "carInfo": "マクラーレン セナがトミカプレミアムで登場！\n一般予約開始日は5月31日となります。"
+    },
+    {
+      "carName": "No.16 陸上自衛隊 16式機動戦闘車",
+      "carPrice": "2019年7月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/tp16_16shiki.jpg",
+      "carInfo": "陸上自衛隊 16式機動戦闘車がトミカプレミアムで登場！\n砲塔回転、砲身上下可動\n一般予約開始日は5月31日となります。"
     }
   ],
   // 201906
