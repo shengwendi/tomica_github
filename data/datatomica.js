@@ -9,6 +9,12 @@ var datatomica = [
   // 201908
   [
     {
+      "carName": "No.48 日野プロフィア 葛飾トラック",
+      "carPrice": "2019年8月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/049.jpg",
+      "carInfo": "日野プロフィア 葛飾トラックがトミカになって登場！\n後部パネル開閉"
+    },
+    {
       "carName": "No.117 TOYOTA GR Supra",
       "carPrice": "2019年8月発売予定 メーカー希望小売価格 450円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/117.jpg",
