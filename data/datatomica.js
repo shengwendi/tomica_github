@@ -88,6 +88,12 @@ var datatomica = [
       "carPrice": "2019年7月発売予定 メーカー希望小売価格 900円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/tp16_16shiki.jpg",
       "carInfo": "陸上自衛隊 16式機動戦闘車がトミカプレミアムで登場！\n砲塔回転、砲身上下可動\n一般予約開始日は5月31日となります。"
+    },
+    {
+      "carName": "トイザらス オリジナル スズキ スイフトスポーツ カスタマイズタイプ",
+      "carPrice": "2019年7月20日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/so_toysrus.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、スズキ スイフトスポーツ カスタマイズタイプが登場！\nサスペンション／後部ドア開閉"
     }
   ],
   // 201906
@@ -157,6 +163,12 @@ var datatomica = [
       "carPrice": "2019年6月22日(土)発売予定 価格 2,800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/so_ttm_01.jpg",
       "carInfo": "「日産 スカイライン GT-Rセット トミカプレミアム５周年記念仕様」が、トミカプレミアムで登場！\nトミカプレミアム5周年を記念したセットになっております。\nサスペンション、左右ドア開閉 ※全種共通\n・BNR32\n・BCNR33\n・BNR34"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ トヨタ 2000GT ウルグアイ国旗タイプ",
+      "carPrice": "2019年6月22日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1906/so_apita.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「ウルグアイ国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
     }
   ],
   // 201905
@@ -190,6 +202,12 @@ var datatomica = [
       "carPrice": "2019年5月25日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1905/so_toysrus.jpg",
       "carInfo": "今回のトイザらス オリジナルトミカは、メルセデスベンツ Gクラス ヘリテージエディションが登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "AEON No.44 スバル インプレッサ WRX STI 4door イタリア警察仕様",
+      "carPrice": "2019年5月25日(土)発売予定 価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1905/so_aeon.jpg",
+      "carInfo": "今月はAEON No.44 スバル インプレッサ WRX STI 4door イタリア警察仕様が登場！\nサスペンション\n本商品は、既存商品のカラー(デザイン)変更となり、それ以外の形状・機構等の変更や追加パーツ等の取り付けはありません。取り扱い…全国のイオン各店(一部取扱いの無い店舗がございます) 。"
     },
     {
       "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ トヨタ 2000GT クロアチア国旗タイプ",
