@@ -90,6 +90,12 @@ var datatomica = [
       "carInfo": "陸上自衛隊 16式機動戦闘車がトミカプレミアムで登場！\n砲塔回転、砲身上下可動\n一般予約開始日は5月31日となります。"
     },
     {
+      "carName": "＜東京2020公式ライセンス商品＞ トヨタ ジャパンタクシー 東京2020オリンピック・パラリンピック",
+      "carPrice": "2019年7月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/to_jpntaxi_op_02.jpg",
+      "carInfo": "トヨタ ジャパンタクシー 東京2020オリンピック・パラリンピックが登場！\nサスペンション\n© Tokyo 2020 Organising Committee"
+    },
+    {
       "carName": "トイザらス オリジナル スズキ スイフトスポーツ カスタマイズタイプ",
       "carPrice": "2019年7月20日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/so_toysrus.jpg",
