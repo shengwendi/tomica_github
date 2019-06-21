@@ -43,6 +43,12 @@ var datatomica = [
       "carPrice": "2019年8月発売予定 メーカー希望小売価格 3,500円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/tprs_gtrv_spec2_g.jpg",
       "carInfo": "トミカプレミアムRS 日産 スカイライン GT-R V・specII Nür (ミレニアムジェイド)がトミカプレミアムRSで登場！\nサスペンション、左右ドア開閉\n一般予約開始日は5月31日となります。"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム トヨタ スープラ",
+      "carPrice": "2019年8月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/so_mall_toyota_supra.jpg",
+      "carInfo": "タカラトミーモールオリジナルに「トミカプレミアム　トヨタ スープラ」が登場！\nサスペンション、左右ドア開閉\n1/62"
     }
   ],
   // 201907
