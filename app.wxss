@@ -168,3 +168,8 @@ view {
 .search-no{
   font-size:14px; color:#FFF; text-align:center; margin-top:50px;
 }
+
+/* ad */
+.adContainer{
+  margin:20px 0 0;
+}
