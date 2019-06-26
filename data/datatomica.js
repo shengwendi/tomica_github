@@ -45,6 +45,12 @@ var datatomica = [
       "carInfo": "トミカプレミアムRS 日産 スカイライン GT-R V・specII Nür (ミレニアムジェイド)がトミカプレミアムRSで登場！\nサスペンション、左右ドア開閉\n一般予約開始日は5月31日となります。"
     },
     {
+      "carName": "トミカ武将コレクション 2019 いざ！関ヶ原へ！！ 上杉景勝トミカ スズキ スイフト",
+      "carPrice": "2019年8月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/bsc_suzuki_swift.jpg",
+      "carInfo": "戦国武将をイメージした「トミカ武将コレクション 2019 いざ！関ヶ原へ!!」シリーズ第四弾として\n上杉景勝トミカ（スズキ スイフト）が登場！\n「トミカ武将コレクション 2019 いざ！関ヶ原へ!!」は全6種を予定しています。"
+    },
+    {
       "carName": "タカラトミーモールオリジナル トミカプレミアム トヨタ スープラ",
       "carPrice": "2019年8月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/so_mall_toyota_supra.jpg",
