@@ -114,6 +114,12 @@ var datatomica = [
       "carInfo": "今回のトイザらス オリジナルトミカは、スズキ スイフトスポーツ カスタマイズタイプが登場！\nサスペンション／後部ドア開閉"
     },
     {
+      "carName": "AEON No.45 日産 エクストレイル ポーランド警察仕様",
+      "carPrice": "2019年7月27日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/so_aeon.jpg",
+      "carInfo": "今月はAEON No.45 日産 エクストレイル ポーランド警察仕様が登場！\nサスペンション"
+    },
+    {
       "carName": "TCNオリジナル ダンロップ レーシングトランスポーター",
       "carPrice": "2019年7月27日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1907/so_tcnn.jpg",
