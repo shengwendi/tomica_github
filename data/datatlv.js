@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736306191&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV ディーノ246gt（白）",
+    "specInfo": "発売時期：2019年11月\n価格：4,800円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736306207&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV ディーノ246GTS（黒）",
+    "specInfo": "発売時期：2019年11月\n価格：4,800円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：輸入車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302063&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-183a ブルーバード パトカー（警視庁）",

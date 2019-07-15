@@ -6,6 +6,27 @@
 }*/
 
 var datatomica = [
+  // 201909
+  [
+    {
+      "carName": "No.100 トヨタ カムリ スポーツ",
+      "carPrice": "2019年9月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1909/100.jpg",
+      "carInfo": "トヨタ カムリ スポーツがトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "No.114 トヨタ センチュリー",
+      "carPrice": "2019年9月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1909/114.jpg",
+      "carInfo": "トヨタ センチュリーがトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "No.139 家畜運搬車",
+      "carPrice": "2019年9月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1909/139.jpg",
+      "carInfo": "家畜運搬車がトミカになって登場！\n幌脱着／スロープ可動／牛積み下ろし"
+    }
+  ],
   // 201908
   [
     {
