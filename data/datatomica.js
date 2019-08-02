@@ -25,6 +25,12 @@ var datatomica = [
       "carPrice": "2019年9月発売予定 メーカー希望小売価格 900円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1909/139.jpg",
       "carInfo": "家畜運搬車がトミカになって登場！\n幌脱着／スロープ可動／牛積み下ろし"
+    },
+    {
+      "carName": "トイザらス オリジナル SUBARU BRZ カスタマイズタイプ",
+      "carPrice": "2019年9月21日発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1909/so_toysrus.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、SUBARU BRZ カスタマイズタイプが登場！\nサスペンション／左右ドア開閉"
     }
   ],
   // 201908
@@ -76,6 +82,30 @@ var datatomica = [
       "carPrice": "2019年8月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/so_mall_toyota_supra.jpg",
       "carInfo": "タカラトミーモールオリジナルに「トミカプレミアム　トヨタ スープラ」が登場！\nサスペンション、左右ドア開閉\n1/62"
+    },
+    {
+      "carName": "トミカショップオリジナル トヨタ クラウンアスリート",
+      "carPrice": "2019年8月3日発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/so_tomicashop.jpg",
+      "carInfo": "トヨタ クラウンアスリートがトミカショップオリジナル商品として登場！"
+    },
+    {
+      "carName": "スヌーピータウンショップオリジナルトミカ アストロノーツスヌーピー",
+      "carPrice": "2019年8月10日発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/so_snoopy.jpg",
+      "carInfo": "スヌーピータウンショップオリジナルに、アストロノーツスヌーピーが初登場！"
+    },
+    {
+      "carName": "イトーヨーカドーオリジナル　トヨタ86 トリコロールカラ—仕様",
+      "carPrice": "2019年8月17日発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/so_itoyokado.jpg",
+      "carInfo": "イトーヨーカドーオリジナル商品として、トヨタ86 トリコロールカラ—仕様が登場！\n取り扱い…全国のイトーヨーカドー各店(一部取扱いの無い店舗がございます)"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ トヨタ 2000GT エジプト国旗タイプ",
+      "carPrice": "2019年8月24日発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1908/so_apita.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「エジプト国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
     }
   ],
   // 201907
