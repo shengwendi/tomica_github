@@ -6,6 +6,33 @@
 }*/
 
 var datatomica = [
+  // 201910
+  [
+    {
+      "carName": "No.75 スズキ スペーシア ギア",
+      "carPrice": "2019年10月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/075.jpg",
+      "carInfo": "「スズキ スペーシア ギア」が、トミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "No.103 光岡 ロックスター",
+      "carPrice": "2019年10月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/103.jpg",
+      "carInfo": "「光岡 ロックスター」が、トミカになって登場！\nサスペンション、ソフトトップ脱着"
+    },
+    {
+      "carName": "No.31 F40",
+      "carPrice": "2019年10月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/tp_f40.jpg",
+      "carInfo": "「F40」が、トミカプレミアムになって登場！\nサスペンション、エンジンフード開閉\n1/62"
+    },
+    {
+      "carName": "No.32 フォルクスワーゲン タイプⅠ",
+      "carPrice": "2019年10月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/tp_32_vw.jpg",
+      "carInfo": "「フォルクスワーゲン タイプⅠ」が、トミカプレミアムになって登場！\nサスペンション\n1/58"
+    }
+  ],
   // 201909
   [
     {
