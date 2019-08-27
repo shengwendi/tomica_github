@@ -58,6 +58,12 @@ var datatomica = [
       "carPrice": "2019年9月21日発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1909/so_toysrus.jpg",
       "carInfo": "今回のトイザらス オリジナルトミカは、SUBARU BRZ カスタマイズタイプが登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "AEON No.46 ランボルギーニ ムルシエラゴ アメリカンポリスタイプ",
+      "carPrice": "2019年9月28日発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1909/so_aeon.jpg",
+      "carInfo": "今月はAEON No.46 ランボルギーニ ムルシエラゴ アメリカンポリスタイプが登場！\nサスペンション"
     }
   ],
   // 201908
