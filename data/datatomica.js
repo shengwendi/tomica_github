@@ -31,6 +31,30 @@ var datatomica = [
       "carPrice": "2019年10月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/tp_32_vw.jpg",
       "carInfo": "「フォルクスワーゲン タイプⅠ」が、トミカプレミアムになって登場！\nサスペンション\n1/58"
+    },
+    {
+      "carName": "トミカ武将コレクション 2019 いざ！関ヶ原へ！！ 徳川家康トミカ トヨタ C-HR",
+      "carPrice": "2019年10月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/bsc_toyota_chr.jpg",
+      "carInfo": "戦国武将をイメージした「トミカ武将コレクション 2019 いざ！関ヶ原へ!!」シリーズ第五弾として徳川家康トミカ（トヨタ C-HR）が登場！「トミカ武将コレクション 2019 いざ！関ヶ原へ!!」は全6種を予定しています。"
+    },
+    {
+      "carName": "トミカショップオリジナル マツダ RX - 7",
+      "carPrice": "2019年10月5日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/so_tomicashop.jpg",
+      "carInfo": "マツダ RX-7がトミカショップオリジナル商品として登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ トヨタ2000GT ニュージーランド国旗タイプ",
+      "carPrice": "2019年10月26日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/so_apita.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「ニュージーランド国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "フェアレディZ 50th アニバーサリーコレクション",
+      "carPrice": "2019年10月発売予定 メーカー希望小売価格 2,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1910/so_tomymall_01.jpg",
+      "carInfo": "タカラトミーモールオリジナルに「フェアレディZ 50th アニバーサリーコレクション」が登場！\nサスペンション／左右ドア開閉　※全種共通\n・フェアレディZ 432（S30）\n・フェアレディZ NISMO（Z34）\n・フェアレディZ 50th Anniversary（Z34)"
     }
   ],
   // 201909
