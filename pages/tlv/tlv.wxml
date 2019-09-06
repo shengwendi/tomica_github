@@ -17,8 +17,8 @@
 	      </view>
 	    </view>
       <view class="btn-more {{over ? 'fn-hide' : ''}}" bindtap='loadMore'>加载更多</view>
-      <view class="adContainer">
+      <!-- <view class="adContainer">
         <ad unit-id="adunit-0a669581ef6e1e23"></ad>
-      </view>
+      </view> -->
 	</scroll-view>
 </view>
