@@ -9,7 +9,7 @@ var datatlv = [
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307624&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-81d ダットサン ブルーバードバン（ヨコハマタイヤ）",
-    "specInfo": "発売時期：2020年2月\n価格：2,400円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+    "specInfo": "発売時期：2020年2月\n価格：2,600円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
   },
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302230&num=1",

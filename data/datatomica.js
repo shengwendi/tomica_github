@@ -6,6 +6,21 @@
 }*/
 
 var datatomica = [
+  // 201911
+  [
+    {
+      "carName": "No.39 三菱 デリカＤ:５",
+      "carPrice": "2019年11月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1911/039.jpg",
+      "carInfo": "三菱 デリカD:5がトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "No.70 ランボルギーニ アヴェンタドール ＳＶＪ",
+      "carPrice": "2019年11月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1911/070.jpg",
+      "carInfo": "ランボルギーニ アヴェンタドール SVJがトミカになって登場！\nサスペンション"
+    }
+  ],
   // 201910
   [
     {
