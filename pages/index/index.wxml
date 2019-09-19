@@ -33,7 +33,7 @@
     </view>
   </view>
   <!-- car list end -->
-  <!-- <view class="adContainer">
+  <view class="adContainer">
     <ad unit-id="adunit-f0e4366224c1d62f"></ad>
-  </view> -->
+  </view>
 </view>
