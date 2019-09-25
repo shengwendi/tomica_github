@@ -4,7 +4,6 @@
   "carImg": "",
   "carInfo": ""
 }*/
-
 var datatomica = [
   // 201911
   [
