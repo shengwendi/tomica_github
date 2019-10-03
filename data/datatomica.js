@@ -18,6 +18,12 @@ var datatomica = [
       "carPrice": "2019年11月発売予定 メーカー希望小売価格 450円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1911/070.jpg",
       "carInfo": "ランボルギーニ アヴェンタドール SVJがトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "トイザらス オリジナル ホンダ シビック TYPE R イギリスカラー仕様",
+      "carPrice": "2019年11月16日発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1911/so_toysrus.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、ホンダ シビック TYPE R イギリスカラー仕様が登場！\nサスペンション"
     }
   ],
   // 201910
