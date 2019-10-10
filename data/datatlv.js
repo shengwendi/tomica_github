@@ -1,5 +1,23 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302162&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-185a マツダ ポーターキャブ 一方開（緑）",
+    "specInfo": "発売時期：2020年4月\n価格：2,700円（税抜）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：マツダ"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302179&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-185b マツダ ポーターキャブ 一方開（白）",
+    "specInfo": "発売時期：2020年4月\n価格：2,700円（税抜）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：マツダ"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307723&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-184c トヨタ コースター（都営ミニバス）",
+    "specInfo": "発売時期：2020年3月\n価格：6,000円（税抜）\nスケール：1/64\n自動車の発売年代：1980年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307617&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-81c ダットサン ブルーバード エステートワゴン（青）",
