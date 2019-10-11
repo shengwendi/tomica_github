@@ -5,6 +5,81 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 201912
+  [
+    {
+      "carName": "No.22 ボルボ XC60",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/022.jpg",
+      "carInfo": "サスペンション、後部ドア開閉"
+    },
+    {
+      "carName": "No.93 マクラーレン Speedtail",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/093.jpg",
+      "carInfo": "copyright mclaren"
+    },
+    {
+      "carName": "No.136 コマツ ハーベスタ 931XC",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/136.jpg",
+      "carInfo": "本体左右可動／アーム可動／運転台回転／木材脱着"
+    },
+    {
+      "carName": "出動せよ！緊急車両セット",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 2,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/g_kksrset_01.jpg",
+      "carInfo": "「出動せよ！緊急車両セット」が、トミカギフトセットから新登場！\n・トヨタ エスティマ パトロールカー\n・トヨタ ハイエース 原因調査車\n・日産 キャラバン 救急車\n・川崎重工 BK117 C-2 警察ヘリコプター"
+    },
+    {
+      "carName": "ドリームトミカ No.159 ひつじのショーン",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/gift_hitsuji_shaun.jpg",
+      "carInfo": "初登場！大人気キャラクター「ひつじのショーン」がドリームトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ トヨタ クラウン パトロールカー",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_patrolcar.jpg",
+      "carInfo": "赤色灯が光り、エンジン音・サイレン音が鳴る！"
+    },
+    {
+      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ポンプ消防車",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_pump.jpg",
+      "carInfo": "赤色灯が光り、エンジン音・サイレン音が鳴る！"
+    },
+    {
+      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ランボルギーニ ウラカン ペルフォルマンテ(Rosso Mars)",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_rossomars.jpg",
+      "carInfo": "ヘッドライトが光り、リアルなエンジン音が鳴る！"
+    },
+    {
+      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ランボルギーニ ウラカン ペルフォルマンテ(Blu Le Mans)",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_blulemans.jpg",
+      "carInfo": "ヘッドライトが光り、リアルなエンジン音が鳴る！"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアムRS Lamborghini Countach LP 500 S（ホワイト）",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 3,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/tprs_lclp500s_white.jpg",
+      "carInfo": "エンジンフード開閉／ライト展開・収納／左右ドア開閉／サスペンション\n1/43"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアムRS Lamborghini Countach LP 500 S（ブルー）",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 3,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/tprs_lclp500s_blue.jpg",
+      "carInfo": "エンジンフード開閉／ライト展開・収納／左右ドア開閉／サスペンション\n1/43"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアムRS Lamborghini Countach LP 500 S（イエロー）",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 3,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/tprs_lclp500s_yellow.jpg",
+      "carInfo": "エンジンフード開閉／ライト展開・収納／左右ドア開閉／サスペンション\n1/43"
+    },
+  ],
   // 201911
   [
     {
