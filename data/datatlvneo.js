@@ -132,6 +132,12 @@ var datatlvneo = [
     "specInfo": "発売時期：2020年1月\n価格：2,400円（税抜）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：日産自動車"
   },
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736292470&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-NEO フェラーリ365 GT4 BB（赤/黒）",
+    "specInfo": "発売時期：2019年12月\n価格：5,800円（税抜）\n自動車の発売年代：1970年代\n自動車メーカー：輸入車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307303&num=1",
     "category": "トミカリミテッドヴィンテージ NEO",
     "specTitle": "LV-NEO マツダ787B 202号車",
