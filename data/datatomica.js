@@ -32,6 +32,42 @@ var datatomica = [
       "carInfo": "「出動せよ！緊急車両セット」が、トミカギフトセットから新登場！\n・トヨタ エスティマ パトロールカー\n・トヨタ ハイエース 原因調査車\n・日産 キャラバン 救急車\n・川崎重工 BK117 C-2 警察ヘリコプター"
     },
     {
+      "carName": "トミカ50周年記念コレクション 01 ブルーバードSSSクーペ",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/50th_blurbird_sss.jpg",
+      "carInfo": "初代のトミカ6車種に思いを馳せる、トミカ50周年を祝す商品です。\n※1970年に発売した商品の復刻ではございません。仕様は異なります。\nサスペンション、左右ドア開閉"
+    },
+    {
+      "carName": "トミカ50周年記念コレクション 02 コロナマークⅡハードトップ",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/50th_corona_markII.jpg",
+      "carInfo": "初代のトミカ6車種に思いを馳せる、トミカ50周年を祝す商品です。\n※1970年に発売した商品の復刻ではございません。仕様は異なります。\nサスペンション、左右ドア開閉"
+    },
+    {
+      "carName": "トミカ50周年記念コレクション 03 クラウン スーパーデラックス",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/50th_crown_spdx.jpg",
+      "carInfo": "初代のトミカ6車種に思いを馳せる、トミカ50周年を祝す商品です。\n※1970年に発売した商品の復刻ではございません。仕様は異なります。\nサスペンション、左右ドア開閉"
+    },
+    {
+      "carName": "トミカ50周年記念コレクション 04 クラウン パトロールカー",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/50th_crown_patrolcar.jpg",
+      "carInfo": "初代のトミカ6車種に思いを馳せる、トミカ50周年を祝す商品です。\n※1970年に発売した商品の復刻ではございません。仕様は異なります。\nサスペンション、左右ドア開閉"
+    },
+    {
+      "carName": "トミカ50周年記念コレクション 05 トヨタ2000GT",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/50th_toyota_2000gt.jpg",
+      "carInfo": "初代のトミカ6車種に思いを馳せる、トミカ50周年を祝す商品です。\n※1970年に発売した商品の復刻ではございません。仕様は異なります。\nサスペンション、左右ドア開閉"
+    },
+    {
+      "carName": "トミカ50周年記念コレクション 06 フェアレディ Z 432",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/50th_fairladyz_432.jpg",
+      "carInfo": "初代のトミカ6車種に思いを馳せる、トミカ50周年を祝す商品です。\n※1970年に発売した商品の復刻ではございません。仕様は異なります。\nサスペンション、左右ドア開閉"
+    },
+    {
       "carName": "ドリームトミカ No.159 ひつじのショーン",
       "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/gift_hitsuji_shaun.jpg",
