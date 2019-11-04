@@ -98,6 +98,12 @@ var datatomica = [
       "carInfo": "ヘッドライトが光り、リアルなエンジン音が鳴る！"
     },
     {
+      "carName": "トミカ武将コレクション 2019 いざ！関ヶ原へ！！ 前田慶次トミカ 三菱 トライトン",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/bsc_mitsubishi_triton.jpg",
+      "carInfo": "戦国武将をイメージした「トミカ武将コレクション 2019 いざ！関ヶ原へ!!」シリーズ第六弾として前田慶次トミカ（三菱 トライトン）が登場！\n「トミカ武将コレクション 2019 いざ！関ヶ原へ!!」は全6種を予定しています。"
+    },
+    {
       "carName": "タカラトミーモールオリジナル トミカプレミアムRS Lamborghini Countach LP 500 S（ホワイト）",
       "carPrice": "2019年12月発売予定 メーカー希望小売価格 3,500円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/tprs_lclp500s_white.jpg",
@@ -114,6 +120,18 @@ var datatomica = [
       "carPrice": "2019年12月発売予定 メーカー希望小売価格 3,500円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/tprs_lclp500s_yellow.jpg",
       "carInfo": "エンジンフード開閉／ライト展開・収納／左右ドア開閉／サスペンション\n1/43"
+    },
+    {
+      "carName": "トミカショップオリジナル　ホワイトタイガーバス",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/so_tso_whitetiger.jpg",
+      "carInfo": "ホワイトタイガーバスがトミカショップオリジナル商品として登場！"
+    },
+    {
+      "carName": "TCNオリジナル　ヤマハレーシングトラック",
+      "carPrice": "2019年12月26日(木)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/so_tcn_yamaha.jpg",
+      "carInfo": "ヤマハレーシングトラックがTCNオリジナルとして登場！"
     },
   ],
   // 201911
