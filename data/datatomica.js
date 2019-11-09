@@ -5,6 +5,81 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202001
+  [
+    {
+      "carName": "No.74 BMW Z4",
+      "carPrice": "2020年1月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/074.jpg",
+      "carInfo": "サスペンション／ソフトトップ脱着"
+    },
+    {
+      "carName": "No.98 大型人員輸送車",
+      "carPrice": "2020年1月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/098.jpg",
+      "carInfo": ""
+    },
+    {
+      "carName": "ドリームトミカ サンリオキャラクターズ コレクション",
+      "carPrice": "2020年1月発売予定 メーカー希望小売価格 各700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/dt_sanrio_cc.jpg",
+      "carInfo": "『サンリオキャラクターズ』がドリームトミカになって登場！「ハローキティ」「タキシードサム」「けろけろけろっぴ」「シナモロール」「ポチャッコ」「ポムポムプリン」「マイメロディ」「ハンギョドン」「ぐでたま」「クロミ」の全10種類。商品には、全10種類のうち、どれか1種が入っています。"
+    },
+    {
+      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ トヨタ クラウン パトロールカー",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_patrolcar.jpg",
+      "carInfo": "赤色灯が光り、エンジン音・サイレン音が鳴る！"
+    },
+    {
+      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ポンプ消防車",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_pump.jpg",
+      "carInfo": "赤色灯が光り、エンジン音・サイレン音が鳴る！"
+    },
+    {
+      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ランボルギーニ ウラカン ペルフォルマンテ(Rosso Mars)",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_rossomars.jpg",
+      "carInfo": "ヘッドライトが光り、リアルなエンジン音が鳴る！"
+    },
+    {
+      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ランボルギーニ ウラカン ペルフォルマンテ(Blu Le Mans)",
+      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_blulemans.jpg",
+      "carInfo": "ヘッドライトが光り、リアルなエンジン音が鳴る！"
+    },
+    {
+      "carName": "04 日産 スカイライン GTS-R",
+      "carPrice": "2020年1月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/tp_04_nissan_skyline_gtsr.jpg",
+      "carInfo": "「日産 スカイライン GTS-R」が、トミカプレミアムになって登場です！\nサスペンション／左右ドア開閉\n1/62"
+    },
+    {
+      "carName": "33 ランボルギーニ ガヤルド スーパーレジェーラ",
+      "carPrice": "2020年1月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/tp_33_lamborghini_gallardo.jpg",
+      "carInfo": "「ランボルギーニ ガヤルド スーパーレジェーラ」が、トミカプレミアムになって登場です！\n1/62"
+    },
+    {
+      "carName": "セブン＆アイオリジナル ドリームトミカ 頭文字D AE86トレノ（藤原拓海）",
+      "carPrice": "2020年1月18日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_7i_ae86.jpg",
+      "carInfo": "頭文字Dに登場する「AE86トレノ（藤原拓海）」がセブン＆アイオリジナル ドリームトミカで登場！\n左右ドア開閉／サスペンション\n©しげの秀一/講談社"
+    },
+    {
+      "carName": "セブン＆アイオリジナル ドリームトミカ 頭文字D トヨタ MR2 SW20（小柏カイ）",
+      "carPrice": "2020年1月18日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_7i_mr2sw20.jpg",
+      "carInfo": "頭文字Dに登場する「トヨタ MR2 SW20（小柏カイ）」がセブン＆アイオリジナル ドリームトミカで登場！\nサスペンション\n©しげの秀一/講談社"
+    },
+    {
+      "carName": "セブン＆アイオリジナル ドリームトミカ 頭文字D FC3S RX-7（高橋涼介）",
+      "carPrice": "2020年1月18日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_7i_fc3srx7.jpg",
+      "carInfo": "頭文字Dに登場する「FC3S RX-7（高橋涼介）」がセブン＆アイオリジナル ドリームトミカで登場！\n左右ドア開閉／サスペンション\n©しげの秀一/講談社"
+    }
+  ],
   // 201912
   [
     {
@@ -72,30 +147,6 @@ var datatomica = [
       "carPrice": "2019年12月発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/gift_hitsuji_shaun.jpg",
       "carInfo": "初登場！大人気キャラクター「ひつじのショーン」がドリームトミカになって登場！\nサスペンション"
-    },
-    {
-      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ トヨタ クラウン パトロールカー",
-      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
-      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_patrolcar.jpg",
-      "carInfo": "赤色灯が光り、エンジン音・サイレン音が鳴る！"
-    },
-    {
-      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ポンプ消防車",
-      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
-      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_pump.jpg",
-      "carInfo": "赤色灯が光り、エンジン音・サイレン音が鳴る！"
-    },
-    {
-      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ランボルギーニ ウラカン ペルフォルマンテ(Rosso Mars)",
-      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
-      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_rossomars.jpg",
-      "carInfo": "ヘッドライトが光り、リアルなエンジン音が鳴る！"
-    },
-    {
-      "carName": "光るよ！鳴るよ！ ライト＆サウンドトミカ ランボルギーニ ウラカン ペルフォルマンテ(Blu Le Mans)",
-      "carPrice": "2019年12月発売予定 メーカー希望小売価格 1,600円(税抜)",
-      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/1912/light_sound_blulemans.jpg",
-      "carInfo": "ヘッドライトが光り、リアルなエンジン音が鳴る！"
     },
     {
       "carName": "トミカ武将コレクション 2019 いざ！関ヶ原へ！！ 前田慶次トミカ 三菱 トライトン",
