@@ -1,5 +1,29 @@
 var datatlvneo = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307273&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N139i いすゞエルガ 名古屋市交通局 （基幹バス）",
+    "specInfo": "発売時期：2020年6月\n価格：10,000円（税抜）\nスケール：1/64\n自動車の発売年代：2010年代\n自動車メーカー：いすゞ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302186&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N139h いすゞエルガ 名古屋市交通局",
+    "specInfo": "発売時期：2020年5月\n価格：10,000円（税抜）\nスケール：1/64\n自動車の発売年代：2010年代\n自動車メーカー：いすゞ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307822&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N201a スバル レガシィ ツーリングワゴン GT（暗赤）",
+    "specInfo": "発売時期：2020年5月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：スバル"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307815&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N201b スバル レガシィ ツーリングワゴン GT（黒/グレー）",
+    "specInfo": "発売時期：2020年5月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：スバル"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307730&num=1",
     "category": "トミカリミテッドヴィンテージ NEO",
     "specTitle": "LV-N185c ブルーバードSSS-R（カルソニック♯2）",

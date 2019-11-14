@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736308157&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-37b セドリック パーソナルデラックスV（白/黒）",
+    "specInfo": "発売時期：2020年5月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代／1970年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736308164&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-37c セドリック パーソナル6 カタログ仕様車（紺）",
+    "specInfo": "発売時期：2020年5月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302162&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-185a マツダ ポーターキャブ 一方開（緑）",
