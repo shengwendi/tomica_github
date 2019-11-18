@@ -62,6 +62,12 @@ var datatomica = [
       "carInfo": "「ランボルギーニ ガヤルド スーパーレジェーラ」が、トミカプレミアムになって登場です！\n1/62"
     },
     {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム　",
+      "carPrice": "2020年1月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_ttm_nissan_fairladyz.jpg",
+      "carInfo": "サスペンション／ボンネット開閉\n1/58"
+    },
+    {
       "carName": "セブン＆アイオリジナル ドリームトミカ 頭文字D AE86トレノ（藤原拓海）",
       "carPrice": "2020年1月18日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_7i_ae86.jpg",
