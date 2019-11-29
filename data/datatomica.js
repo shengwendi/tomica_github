@@ -62,6 +62,18 @@ var datatomica = [
       "carInfo": "「ランボルギーニ ガヤルド スーパーレジェーラ」が、トミカプレミアムになって登場です！\n1/62"
     },
     {
+      "carName": "トヨタ2000GT (白)",
+      "carPrice": "2020年1月発売予定 メーカー希望小売価格 3,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/tprs_toyota2000gt_w.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/43"
+    },
+    {
+      "carName": "トヨタ2000GT (赤)",
+      "carPrice": "2020年1月発売予定 メーカー希望小売価格 3,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/tprs_toyota2000gt_r.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/43"
+    },
+    {
       "carName": "タカラトミーモールオリジナル トミカプレミアム　",
       "carPrice": "2020年1月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_ttm_nissan_fairladyz.jpg",
