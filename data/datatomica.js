@@ -74,6 +74,24 @@ var datatomica = [
       "carInfo": "サスペンション／左右ドア開閉\n1/43"
     },
     {
+      "carName": "トイザらス オリジナル トヨタ C - HR ヨーロッパカラー仕様",
+      "carPrice": "2020年1月1日(水)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_toysrus.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、トヨタ C-HR ヨーロッパカラー仕様が登場！\nサスペンション／後部ドア開閉"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ トヨタ2000GT 日本国旗タイプ VII 祝 2020 日本",
+      "carPrice": "2020年1月1日(水)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_apita.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「日本国旗タイプ VII 祝 2020 日本」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "イトーヨーカドーオリジナル スバル インプレッサ WRX STI ４door トリコロールカラー仕様",
+      "carPrice": "2020年1月1日(水)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_itoyokado.jpg",
+      "carInfo": "イトーヨーカドーオリジナル商品として、スバル インプレッサ WRX STI ４door トリコロールカラ—仕様が登場！\nサスペンション"
+    },
+    {
       "carName": "タカラトミーモールオリジナル トミカプレミアム　",
       "carPrice": "2020年1月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2001/so_ttm_nissan_fairladyz.jpg",
