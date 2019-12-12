@@ -6,6 +6,30 @@ var datatlvneo = [
     "specInfo": "発売時期：2020年6月\n価格：10,000円（税抜）\nスケール：1/64\n自動車の発売年代：2010年代\n自動車メーカー：いすゞ自動車"
   },
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736306252&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-NEO フェラーリ 365 GT4 BB（青/黒）",
+    "specInfo": "発売時期：2020年6月\n価格：5,800円（税抜）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736306238&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-NEO フェラーリ 512 BB（赤/黒）",
+    "specInfo": "発売時期：2020年6月\n価格：5,800円（税抜）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307792&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N200b 日産GT-R 50th ANNIVERSARY（銀）",
+    "specInfo": "発売時期：2020年5月\n価格：3,000円（税抜）\nスケール：1/64\n自動車の発売年代：2010年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307785&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N200a 日産GT-R 50th ANNIVERSARY（青）",
+    "specInfo": "発売時期：2020年5月\n価格：3,000円（税抜）\nスケール：1/64\n自動車の発売年代：2010年代\n自動車メーカー：日産自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302186&num=1",
     "category": "トミカリミテッドヴィンテージ NEO",
     "specTitle": "LV-N139h いすゞエルガ 名古屋市交通局",
