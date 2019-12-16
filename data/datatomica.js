@@ -5,6 +5,21 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202002
+  [
+    {
+      "carName": "No.21 日産 ノート パトロ－ルカー",
+      "carPrice": "2020年2月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2002/021.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.59 Ｆ８ トリブート",
+      "carPrice": "2020年2月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2002/059.jpg",
+      "carInfo": "サスペンション"
+    }
+  ],
   // 202001
   [
     {
