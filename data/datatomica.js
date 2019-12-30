@@ -18,6 +18,18 @@ var datatomica = [
       "carPrice": "2020年2月発売予定 メーカー希望小売価格 450円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2002/059.jpg",
       "carInfo": "サスペンション"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム 512 BB",
+      "carPrice": "2020年2月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2002/so_ttmtp_512bb.jpg",
+      "carInfo": "カウル開閉／ライト展開・収納\n1/61"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム フォルクスワーゲン タイプI",
+      "carPrice": "2020年2月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2002/so_ttmtp_vwtype1.jpg",
+      "carInfo": "サスペンション\n1/58"
     }
   ],
   // 202001
