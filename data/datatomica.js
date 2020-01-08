@@ -30,6 +30,18 @@ var datatomica = [
       "carPrice": "2020年2月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2002/so_ttmtp_vwtype1.jpg",
       "carInfo": "サスペンション\n1/58"
+    },
+    {
+      "carName": "トミカショップオリジナル ホンダ シビック TYPE R",
+      "carPrice": "2020年2月1日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2002/so_tso_civic.jpg",
+      "carInfo": "ホンダ シビック TYPE Rがトミカショップオリジナル商品として登場！\nサスペンション\n※お一人様1個までとさせていただきます。\n※トミカショップインターネット店でも販売いたします。\n※発売予定日は予期無く変更となる場合がございます。"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ トヨタ2000GT ガーナ国旗タイプ",
+      "carPrice": "2020年2月15日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2002/so_apita.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「ガーナ国旗タイプ」が登場！\nサスペンション／左右ドア開閉\n本商品はアピタ・ピアゴにて販売するオリジナル商品で、一般の玩具店での販売はありません。\n一部取り扱いのない店舗もございます。\n取り扱い等に関しては、お近くのアピタ・ピアゴ店舗でご確認ください。"
     }
   ],
   // 202001
