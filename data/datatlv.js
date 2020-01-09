@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736310884&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-186b マツダ E2000 清掃車（灰）",
+    "specInfo": "発売時期：2020年7月\n価格：2,800円（税抜）\n自動車の発売年代：1960年代\n自動車メーカー：マツダ"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736310877&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-186a マツダ E2000 清掃車（白/青）",
+    "specInfo": "発売時期：2020年7月\n価格：2,800円（税抜）\n自動車の発売年代：1960年代\n自動車メーカー：マツダ"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736308157&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-37b セドリック パーソナルデラックスV（白/黒）",
