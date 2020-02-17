@@ -5,6 +5,27 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202004
+  [
+    {
+      "carName": "No.24 トヨタ カローラ ツーリング",
+      "carPrice": "2020年4月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2004/024.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "34 日産 スカイライン GT-R(KPGC10)",
+      "carPrice": "2020年4月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2004/tp_34_skyline_gtr_kpgc10.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/61"
+    },
+    {
+      "carName": "Honda シビック TYPE R トミカ50周年記念仕様 designed by Honda",
+      "carPrice": "2020年4月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2004/50th_honda_typer.jpg",
+      "carInfo": "「トミカ５０周年自動車メーカーコラボプロジェクト」は、株式会社本田技術研究所、トヨタ自動車株式会社、日産自動車株式会社の自動車メーカー３社にご協力いただき、普段は実車のデザインを担当している各社のデザイナーに「トミカ」のためだけの特別な５０周年デザインを考えていただく夢の企画です。\n「トミカ」の中でも人気で、子どもたちの憧れである各社のスポーツカーをベースに、それぞれの車両に合うデザインを各社の社内コンペで決定していただきました。それぞれのデザインで装飾された実車両も様々なイベントで登場します。 \n「トミカ５０周年自動車メーカーコラボプロジェクト」第１弾、「Honda シビック TYPE R トミカ５０周年記念仕様 designed by Honda」が登場！"
+    }
+  ],
   // 202003
   [
     {
@@ -36,6 +57,12 @@ var datatomica = [
       "carPrice": "2020年3月発売予定 メーカー希望小売価格 各700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2003/dt_peanuts.jpg",
       "carInfo": "PEANUTS生誕70周年を記念した、ドリームトミカのくじが登場！"
+    },
+    {
+      "carName": "トイザらス オリジナル トヨタ86 カスタマイズタイプ",
+      "carPrice": "2020年3月21日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2003/so_toysrus.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、トヨタ86 カスタマイズタイプが登場！\nサスペンション／左右ドア開閉"
     }
   ],
   // 202002
