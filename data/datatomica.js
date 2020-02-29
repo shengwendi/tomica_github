@@ -14,6 +14,12 @@ var datatomica = [
       "carInfo": "サスペンション"
     },
     {
+      "carName": "No.25 日立建機 ローディングショベル EX8000-7",
+      "carPrice": "2020年4月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2004/025.jpg",
+      "carInfo": "アーム可動／運転台回転"
+    },
+    {
       "carName": "34 日産 スカイライン GT-R(KPGC10)",
       "carPrice": "2020年4月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2004/tp_34_skyline_gtr_kpgc10.jpg",
@@ -63,6 +69,12 @@ var datatomica = [
       "carPrice": "2020年3月21日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2003/so_toysrus.jpg",
       "carInfo": "今回のトイザらス オリジナルトミカは、トヨタ86 カスタマイズタイプが登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "AEON No.49 アウディ R8 アメリカンポリスカータイプ",
+      "carPrice": "2020年3月28日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2003/so_aeon.jpg",
+      "carInfo": "今月はAEON No.49 アウディ R8 アメリカンポリスカータイプが登場！\nサスペンション\nTrademarks, design patents and copyrights are used with the approval of the owner AUDI AG.\n本商品は、既存商品のカラー(デザイン)変更となり、それ以外の形状・機構等の変更や追加パーツ等の取り付けはありません。\n取り扱い…全国のイオン各店(一部取扱いの無い店舗がございます) 。"
     }
   ],
   // 202002
