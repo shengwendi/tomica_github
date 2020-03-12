@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302148&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV フェラーリ 365 GTB4（赤）",
+    "specInfo": "発売時期：2020年8月\n価格：5,800円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代／1970年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311546&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV フェラーリ 365 GTS4（赤）",
+    "specInfo": "発売時期：2020年8月\n価格：5,800円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代／1970年代\n自動車メーカー：輸入車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736310884&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-186b マツダ E2000 清掃車（灰）",

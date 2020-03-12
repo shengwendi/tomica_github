@@ -12,6 +12,18 @@ var datatlvneo = [
     "specInfo": "発売時期：2020年8月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：三菱自動車"
   },
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311706&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N104d タウンエースワゴン 1800 スーパーエクストラ 82年式（緑）",
+    "specInfo": "発売時期：2020年8月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1980年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311690&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N104c タウンエースワゴン 1800 グランドエクストラ 81年式（銀）",
+    "specInfo": "発売時期：2020年8月\n価格：2,500円（税抜）\nスケール：1/64\n自動車の発売年代：1980年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311669&num=1",
     "category": "トミカリミテッドヴィンテージ NEO",
     "specTitle": "LV-N195b いすゞエルフ パネルバン（ヤマザキパン）",

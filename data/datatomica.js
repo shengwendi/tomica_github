@@ -8,6 +8,12 @@ var datatomica = [
   // 202004
   [
     {
+      "carName": "No.19 スズキ KATANA",
+      "carPrice": "2020年4月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2003/019.jpg",
+      "carInfo": "ライダー／スタンド付き"
+    },
+    {
       "carName": "No.24 トヨタ カローラ ツーリング",
       "carPrice": "2020年4月発売予定 メーカー希望小売価格 450円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2004/024.jpg",
@@ -30,6 +36,12 @@ var datatomica = [
       "carPrice": "2020年4月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2004/50th_honda_typer.jpg",
       "carInfo": "「トミカ５０周年自動車メーカーコラボプロジェクト」は、株式会社本田技術研究所、トヨタ自動車株式会社、日産自動車株式会社の自動車メーカー３社にご協力いただき、普段は実車のデザインを担当している各社のデザイナーに「トミカ」のためだけの特別な５０周年デザインを考えていただく夢の企画です。\n「トミカ」の中でも人気で、子どもたちの憧れである各社のスポーツカーをベースに、それぞれの車両に合うデザインを各社の社内コンペで決定していただきました。それぞれのデザインで装飾された実車両も様々なイベントで登場します。 \n「トミカ５０周年自動車メーカーコラボプロジェクト」第１弾、「Honda シビック TYPE R トミカ５０周年記念仕様 designed by Honda」が登場！"
+    },
+    {
+      "carName": "トミカショップオリジナル スズキ ジムニー",
+      "carPrice": "2020年4月4日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2004/so_tomicashop.jpg",
+      "carInfo": "「スズキ ジムニー」がトミカショップオリジナル商品として登場！\nサスペンション"
     }
   ],
   // 202003
@@ -39,12 +51,6 @@ var datatomica = [
       "carPrice": "2020年3月発売予定 メーカー希望小売価格 450円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2003/010.jpg",
       "carInfo": "サスペンション／左右ドア開閉"
-    },
-    {
-      "carName": "No.19 スズキ KATANA",
-      "carPrice": "2020年3月発売予定 メーカー希望小売価格 450円(税抜)",
-      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2003/019.jpg",
-      "carInfo": "ライダー／スタンド付き"
     },
     {
       "carName": "No.137 海上保安庁 スーパーピューマ H225",
