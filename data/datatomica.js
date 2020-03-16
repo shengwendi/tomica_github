@@ -5,6 +5,33 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202005
+  [
+    {
+      "carName": "No.76 日産 スカイライン",
+      "carPrice": "2020年5月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2005/pic_076_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.107 衛星通信車",
+      "carPrice": "2020年5月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2005/pic_107_01.jpg",
+      "carInfo": "サスペンション／ルーフアンテナ可動"
+    },
+    {
+      "carName": "ドリームトミカ No.148 ワイルド・スピード/スープラ",
+      "carPrice": "2020年5月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2005/pic_dt_148_01.jpg",
+      "carInfo": "映画『ワイルド・スピード』より「スープラ」がドリームトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "ドリームトミカ SP F9 The Fast Saga ワイルド・スピード/GR スープラ",
+      "carPrice": "2020年5月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2005/pic_dt_f9_01.jpg",
+      "carInfo": "人気シリーズ『ワイルド・スピード』の第９作『ワイルド・スピード／ジェットブレイク』の公開を記念して、本作に登場する「ＧＲ スープラ」がドリームトミカになって登場！\nサスペンション"
+    }
+  ],
   // 202004
   [
     {
