@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311683&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-187b トヨペット マスターライン1900 62年式（日本通運）",
+    "specInfo": "発売時期：2020年9月\n価格：2,600円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311676&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-187a トヨペット マスターライン1900 62年式（ベージュ/白）",
+    "specInfo": "発売時期：2020年9月\n価格：2,600円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302148&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV フェラーリ 365 GTB4（赤）",
@@ -10,6 +22,12 @@ var datatlv = [
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV フェラーリ 365 GTS4（赤）",
     "specInfo": "発売時期：2020年8月\n価格：5,800円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代／1970年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311492&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-185c マツダ ポーターキャブ一方開（ブリヂストン）",
+    "specInfo": "発売時期：2020年8月\n価格：2,700円（税抜）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：マツダ"
   },
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736310884&num=1",
