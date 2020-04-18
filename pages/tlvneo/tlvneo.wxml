@@ -2,11 +2,6 @@
 <view class="container tlv">
   <scroll-view scroll-y>
       <view class="item-search" bindtap="jumpSearch">搜索</view>
-      <!-- ad start -->
-      <view class="adContainer">
-        <ad unit-id="adunit-e2086260125462cb"></ad>
-      </view>
-      <!-- ad end -->
       <view class='tlv-tit'>New Lineup</view>
 	    <view class="ul">
         <view class="li" wx:for="{{datatlvneo}}" wx:for-item="item" wx:for-index="idx" wx:key="idx">
@@ -22,5 +17,10 @@
 	      </view>
 	    </view>
       <view class="btn-more {{over ? 'fn-hide' : ''}}" bindtap='loadMore'>加载更多</view>
+      <!-- ad start -->
+      <view class="adContainer">
+        <ad unit-id="adunit-e2086260125462cb"></ad>
+      </view>
+      <!-- ad end -->
 	</scroll-view>
 </view>
