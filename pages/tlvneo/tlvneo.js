@@ -29,11 +29,11 @@ Page({
   },
   onShow: function () {
     // 在适合的场景显示插屏广告
-    if (interstitialAd) {
-      interstitialAd.show().catch((err) => {
-        console.error(err)
-      })
-    }
+    // if (interstitialAd) {
+    //   interstitialAd.show().catch((err) => {
+    //     console.error(err)
+    //   })
+    // }
   },
   // 加载数据方法
   initNum: function(num) {

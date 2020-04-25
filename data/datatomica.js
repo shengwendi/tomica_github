@@ -5,6 +5,21 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202006
+  [
+    {
+      "carName": "No.124 京阪電車きかんしゃトーマス号2020",
+      "carPrice": "2020年6月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_124_01.jpg",
+      "carInfo": "京阪電気鉄道株式会社商品化許諾済"
+    },
+    {
+      "carName": "おさかないっぱい！魚市場セット",
+      "carPrice": "2020年6月発売予定 メーカー希望小売価格 2,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_giftset_01.jpg",
+      "carInfo": "・三菱ロジスネクスト エレトラック（アクション：連結切り離し）\n・UDトラックス クオン マグロトラック\n・トヨタ タウンエース お魚配達トラック（アクション：サスペンション）"
+    }
+  ],
   // 202005
   [
     {
