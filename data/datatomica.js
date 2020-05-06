@@ -18,6 +18,30 @@ var datatomica = [
       "carPrice": "2020年6月発売予定 メーカー希望小売価格 2,000円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_giftset_01.jpg",
       "carInfo": "・三菱ロジスネクスト エレトラック（アクション：連結切り離し）\n・UDトラックス クオン マグロトラック\n・トヨタ タウンエース お魚配達トラック（アクション：サスペンション）"
+    },
+    {
+      "carName": "トヨタ GR スープラ トミカ５０周年記念仕様 designed by Toyota",
+      "carPrice": "2020年6月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_50th_toyota_GR_01.jpg",
+      "carInfo": "「トミカ５０周年自動車メーカーコラボプロジェクト」は、株式会社本田技術研究所、トヨタ自動車株式会社、日産自動車株式会社の自動車メーカー３社にご協力いただき、普段は実車のデザインを担当している各社のデザイナーに「トミカ」のためだけの特別な５０周年デザインを考えていただく夢の企画です。\n「トミカ」の中でも人気で、子どもたちの憧れである各社のスポーツカーをベースに、それぞれの車両に合うデザインを各社の社内コンペで決定していただきました。それぞれのデザインで装飾された実車両も様々なイベントで登場します。\n「トミカ５０周年自動車メーカーコラボプロジェクト」第２弾、「トヨタ GR スープラ トミカ５０周年記念仕様 designed by Toyota」が登場！"
+    },
+    {
+      "carName": "35 アストンマーティン DB5",
+      "carPrice": "2020年6月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_tp_35_amdb5_01.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/62"
+    },
+    {
+      "carName": "36 365 GTS4",
+      "carPrice": "2020年6月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_tp_36_365gts4_01.jpg",
+      "carInfo": "サスペンション\n1/61"
+    },
+    {
+      "carName": "トミカプレミアムRS Lamborghini Miura P 400 S",
+      "carPrice": "2020年6月発売予定 メーカー希望小売価格 3,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_tprs_lm_01.jpg",
+      "carInfo": "フロントカウル開閉／リアカウル開閉\n1/43"
     }
   ],
   // 202005
@@ -51,6 +75,12 @@ var datatomica = [
       "carPrice": "2020年5月16日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2005/so_toysrus_01.jpg",
       "carInfo": "今回のトイザらス オリジナルトミカは、日産 リーフ 東京オートサロン2018デザイン仕様が登場！\nサスペンション／後部ドア開閉"
+    },
+    {
+      "carName": "AEON NO.50 スバル WRX STI Type S 日本警察仕様",
+      "carPrice": "2020年5月23日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2005/so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.50 スバル WRX STI Type S 日本警察仕様が登場！\nサスペンション／ボンネット開閉\n本商品は、既存商品のカラー(デザイン)変更となり、それ以外の形状・機構等の変更や追加パーツ等の取り付けはありません。\n取り扱い…全国のイオン各店(一部取扱いの無い店舗がございます)。"
     },
     {
       "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディ Z アメリカ国旗タイプ",
