@@ -5,6 +5,27 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202007
+  [
+    {
+      "carName": "No.33 ホンダ フィット",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_033_01.jpg",
+      "carInfo": "サスペンション／後部ドア開閉"
+    },
+    {
+      "carName": "きかんしゃトーマス はじめて物語セット",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 2,800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_thomas_monogatari_01.jpg",
+      "carInfo": "・みどりのトーマス\n・くろいジェームス\n・アニー\n・クララベル"
+    },
+    {
+      "carName": "ドリームトミカ No.151 MFゴースト/トヨタ 86 GT",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_dt_151_01.jpg",
+      "carInfo": "『MFゴースト』より「トヨタ 86 GT」がドリームトミカになって登場！\nサスペンション／左右ドア開閉"
+    }
+  ],
   // 202006
   [
     {
