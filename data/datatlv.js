@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736312000&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-191a いすゞエルフ 高床荷台 66年式（灰）",
+    "specInfo": "発売時期：2020年9月\n価格：3,500円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：いすゞ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311997&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-190a いすゞエルフ 高床荷台 64年式（日本通運）",
+    "specInfo": "発売時期：2020年9月\n価格：3,500円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：いすゞ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311683&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-187b トヨペット マスターライン1900 62年式（日本通運）",
