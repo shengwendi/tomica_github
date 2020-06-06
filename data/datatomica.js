@@ -24,6 +24,12 @@ var datatomica = [
       "carPrice": "2020年7月発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_dt_151_01.jpg",
       "carInfo": "『MFゴースト』より「トヨタ 86 GT」がドリームトミカになって登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディZ イギリス国旗タイプ",
+      "carPrice": "2020年7月4日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_so_apita_01.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！\n今回は「イギリス国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
     }
   ],
   // 202006
@@ -63,6 +69,18 @@ var datatomica = [
       "carPrice": "2020年6月発売予定 メーカー希望小売価格 3,500円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_tprs_lm_01.jpg",
       "carInfo": "フロントカウル開閉／リアカウル開閉\n1/43"
+    },
+    {
+      "carName": "トミカ５０周年ヒストリーセレクション 1990－1999 Vol.3 マツダ RX - 7 パトロールカー",
+      "carPrice": "2020年6月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_50th_rx7_01.jpg",
+      "carInfo": "50周年を迎える「トミカ」の軌跡を辿り、トミカが誕生した1970年から10年毎の歴史と、「今でも印象の強いトミカ」がセットになった商品です。\nパッケージは本のように表紙が開く仕様。年間全６種を予定しています。\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "トミカショップオリジナル トヨタ86 消防指揮車 ヨーロッパ仕様",
+      "carPrice": "2020年6月6日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2006/pic_so_tomicashop_01.jpg",
+      "carInfo": "「トヨタ86 消防指揮車 ヨーロッパ仕様」がトミカショップオリジナル商品として登場！\nサスペンション／左右ドア開閉"
     }
   ],
   // 202005
