@@ -5,6 +5,33 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202008
+  [
+    {
+      "carName": "No.81 トヨタ RAV4",
+      "carPrice": "2020年8月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_081_01.jpg",
+      "carInfo": "サスペンション／後部ドア開閉"
+    },
+    {
+      "carName": "No.106 スズキ ハスラー 消防指令車",
+      "carPrice": "2020年8月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_106_01.jpg",
+      "carInfo": "サスペンション／後部ドア開閉"
+    },
+    {
+      "carName": "37 ホンダ シビック タイプR",
+      "carPrice": "2020年8月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_tp37_civic_01.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/62"
+    },
+    {
+      "carName": "38 マツダ サバンナ RX-7",
+      "carPrice": "2020年8月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_tp38_rx7_01.jpg",
+      "carInfo": "左右ドア開閉／リトラクタブルライト展開・収納\n1/61"
+    }
+  ],
   // 202007
   [
     {
