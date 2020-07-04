@@ -36,6 +36,24 @@ var datatomica = [
       "carPrice": "2020年8月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_tp38_rx7_01.jpg",
       "carInfo": "左右ドア開閉／リトラクタブルライト展開・収納\n1/61"
+    },
+    {
+      "carName": "トミカショップオリジナル　三菱ふそう エアロスター トミカショップバス",
+      "carPrice": "2020年8月1日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_so_tomicashop_01.jpg",
+      "carInfo": "「三菱ふそう エアロスター トミカショップバス」がトミカショップオリジナル商品として登場！"
+    },
+    {
+      "carName": "イトーヨーカドーオリジナル　トヨタ2000GT トリコロールカラー仕様",
+      "carPrice": "2020年8月8日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_so_itoyokado_01.jpg",
+      "carInfo": "イトーヨーカドーオリジナル商品として、トヨタ２０００ＧＴ トリコロールカラー仕様が登場！\nサスペンション／左右ドア開閉\n取り扱い…全国のイトーヨーカドー各店(一部取扱いの無い店舗がございます)"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディ Z ブラジル国旗タイプ",
+      "carPrice": "2020年8月15日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_so_apita_01.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「ブラジル国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
     }
   ],
   // 202007
@@ -59,10 +77,136 @@ var datatomica = [
       "carInfo": "『MFゴースト』より「トヨタ 86 GT」がドリームトミカになって登場！\nサスペンション／左右ドア開閉"
     },
     {
+      "carName": "トミカプレゼンツ ブラーゴ シグネチャーシリーズ 1:18 FXX-K EVO（スペシャルカラー）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 12,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_sig118_fxx-k_evo01.jpg",
+      "carInfo": "1/18スケールのダイキャスト製ミニカー\n世界先行発売の新カラー\n細部にわたる精密なペインティング\nドア開閉\nエンジンフード/フロントフード開閉\n前輪ステアリング連動\nホイール/タイヤ/ディスクブレーキ細部表現\nサスペンション\nインテリア細部表現\nサイドミラー表現\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ シグネチャーシリーズ 1:18 LAFERRARI ラフェラーリ（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 12,500円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_sig118_laferrari01.jpg",
+      "carInfo": "1/18スケールのダイキャスト製ミニカー\n細部にわたる精密なペインティング\nドア開閉\nエンジンフード/フロントフード開閉\n前輪ステアリング連動\nホイール/タイヤ/ディスクブレーキ細部表現\nサスペンション\nインテリア細部表現\nサイドミラー表現\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ シグネチャーシリーズ 1:43 FXX K（スペシャルカラー）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 3,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_sig143_fxx-k_sc01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\n世界先行発売のカラー\n細部にわたる精密なペインティング\nホイール/タイヤ/ディスクブレーキ細部表現\nインテリア細部表現\nサイドミラー表現\nディスプレイ用クリアケースと台座付き\ntomica PRESENTS スリーブ入り"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ シグネチャーシリーズ 1:43 FXX K（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 3,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_sig143_fxx-k_red01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\n細部にわたる精密なペインティング\nホイール/タイヤ/ディスクブレーキ細部表現\nインテリア細部表現\nサイドミラー表現\nディスプレイ用クリアケースと台座付き\ntomica PRESENTS スリーブ入り"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ シグネチャーシリーズ 1:43 LAFERRARI APERTA ラフェラーリ アペルタ（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 3,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_sig143_laferrari_aperta01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\n細部にわたる精密なペインティング\nホイール/タイヤ/ディスクブレーキ細部表現\nインテリア細部表現\nサイドミラー表現\nディスプレイ用クリアケースと台座付き\ntomica PRESENTS スリーブ入り"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ シグネチャーシリーズ 1:43 488 GTB（白）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 3,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_sig143_488gtb01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\n細部にわたる精密なペインティング\nホイール/タイヤ/ディスクブレーキ細部表現\nインテリア細部表現\nサイドミラー表現\nディスプレイ用クリアケースと台座付き\ntomica PRESENTS スリーブ入り"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 1:43 F12berlinetta F12ベルリネッタ（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_rp143_f123berlinetta01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 1:43 F40 COMPETIZIONE F40 コンペティゼィオーネ（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_rp143_f40competizione01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 1:43 FXX K（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_rp143_fxx_k01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 1:43 DINO 246 GT ディーノ 246 GT（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_rp143_246gt01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 1:43 LAFERRARI ラフェラーリ（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_rp143_laferrari01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 1:43 458 SPIDER 458 スパイダー（黄）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_rp143_458spider01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 1:43 FERRARI 488 PISTA 488 ピスタ（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_rp143_488pista01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカー\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 3インチ LAFERRARI ラフェラーリ（白）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_3inch_laferrari01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカー\n＊3インチは凡そのサイズで、車種によって誤差があります。\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 3インチ F50（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_3inch_f5001.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカー\n＊3インチは凡そのサイズで、車種によって誤差があります。\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 3インチ F40 COMPETIZIONE F40 コンペティゼィオーネ（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_3inch_f40competizione01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカー\n＊3インチは凡そのサイズで、車種によって誤差があります。\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 3インチ FERRARI CALIFORNIA T (OPEN TOP) フェラーリ カリフォルニア T（オープントップ）（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_3inch_ferarri_california_t01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカー\n＊3インチは凡そのサイズで、車種によって誤差があります。\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 3インチ ENZO FERRARI エンツォ フェラーリ（黒）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_3inch_enzoferrari01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカー\n＊3インチは凡そのサイズで、車種によって誤差があります。\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ 3インチ FERRARI 488 PISTA 488 ピスタ（赤）",
+      "carPrice": "2020年7月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_tpb_3inch_488pista01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカー\n＊3インチは凡そのサイズで、車種によって誤差があります。\ntomica PRESENTS オリジナルパッケージ"
+    },
+    {
       "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディZ イギリス国旗タイプ",
       "carPrice": "2020年7月4日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_so_apita_01.jpg",
       "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！\n今回は「イギリス国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "AEON NO.51 トヨタ ヴェルファイア スペイン警察仕様",
+      "carPrice": "2020年7月25日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.５１ トヨタ ヴェルファイア スペイン警察仕様が登場！\nサスペンション／後部ドア開閉\n本商品は、既存商品のカラー(デザイン)変更となり、それ以外の形状・機構等の変更や追加パーツ等の取り付けはありません。\n取り扱い…全国のイオン各店(一部取扱いの無い店舗がございます)。"
+    },
+    {
+      "carName": "TCNオリジナル　YOKOHAMA Motorsports レーシングトラック",
+      "carPrice": "2020年7月25日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2007/pic_so_tcn_01.jpg",
+      "carInfo": "YOKOHAMA Motorsports レーシングトラックがTCNオリジナルとして登場！"
     }
   ],
   // 202006
