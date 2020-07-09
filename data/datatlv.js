@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736312390&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "TLV-174d プリンス グロリア スーパー6（黒）66年式",
+    "specInfo": "発売時期：2020年11月\n価格：2,600円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：プリンス自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736312291&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "TLV-174c プリンス グロリア スーパー6（紺）66年式",
+    "specInfo": "発売時期：2020年11月\n価格：2,600円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：プリンス自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736312000&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-191a いすゞエルフ 高床荷台 66年式（灰）",
