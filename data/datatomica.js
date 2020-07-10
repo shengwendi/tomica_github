@@ -5,6 +5,21 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202009
+  [
+    {
+      "carName": "No.38 アウディ Ｒ８ クーペ",
+      "carPrice": "2020年9月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2009/pic_038_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.82 トヨタ ＳＯＲＡ",
+      "carPrice": "2020年9月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2009/pic_082_01.jpg",
+      "carInfo": ""
+    }
+  ],
   // 202008
   [
     {
