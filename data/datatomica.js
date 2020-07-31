@@ -18,6 +18,18 @@ var datatomica = [
       "carPrice": "2020年9月発売予定 メーカー希望小売価格 450円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2009/pic_082_01.jpg",
       "carInfo": ""
+    },
+    {
+      "carName": "No.129 宇部興産 ダブルストレーラー",
+      "carPrice": "2020年9月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2009/pic_129_01.jpg",
+      "carInfo": "本体取り外し／左右可動"
+    },
+    {
+      "carName": "ドリームトミカ No.158 ドラえもん 50th Anniversary ラッピングバス",
+      "carPrice": "2020年9月発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2009/pic_dt_doraemon50th_01.jpg",
+      "carInfo": "ドラえもん50周年を記念してドリームトミカより、特別なラッピングバスが登場！"
     }
   ],
   // 202008
@@ -53,10 +65,22 @@ var datatomica = [
       "carInfo": "左右ドア開閉／リトラクタブルライト展開・収納\n1/61"
     },
     {
+      "carName": "トミカ５０周年ヒストリーセレクション 2000-2009 Vol.4 ホンダ NSX-R",
+      "carPrice": "2020年8月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_historyselection_vol04_01.jpg",
+      "carInfo": "2020年生誕50周年を迎える「トミカ」の歴史を振り返り、トミカが誕生した1970年から10年毎の歴史と共に、その年毎に「今でも印象が強い車」のトミカがセットになった商品です。\nサスペンション"
+    },
+    {
       "carName": "トミカショップオリジナル　三菱ふそう エアロスター トミカショップバス",
       "carPrice": "2020年8月1日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_so_tomicashop_01.jpg",
       "carInfo": "「三菱ふそう エアロスター トミカショップバス」がトミカショップオリジナル商品として登場！"
+    },
+    {
+      "carName": "スヌーピータウンショップ オリジナルドリームトミカ TEAM PEANUTS",
+      "carPrice": "2020年8月8日(土)発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2008/pic_so_snoopyshop_01.jpg",
+      "carInfo": "スヌーピータウンショップオリジナル商品として、ドリームトミカ TEAM PEANUTSが登場！"
     },
     {
       "carName": "イトーヨーカドーオリジナル　トヨタ2000GT トリコロールカラー仕様",
