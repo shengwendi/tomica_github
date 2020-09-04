@@ -42,6 +42,12 @@ var datatomica = [
       "carPrice": "2020年10月発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2010/pic_dtro_stew_pilot_01.jpg",
       "carInfo": "映画最新作に登場する新コスチュームを着たミニオン/ボブがドリームトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "トイザらス オリジナル メルセデス-ＡＭＧ ＧＴ Ｒ ＰＲＯデザイン仕様",
+      "carPrice": "2020年10月17日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2010/pic_so_toysrus.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、メルセデス-ＡＭＧ ＧＴ Ｒ ＰＲＯデザイン仕様が登場!\nサスペンション／左右ドア開閉"
     }
   ],
   // 202009
@@ -69,6 +75,12 @@ var datatomica = [
       "carPrice": "2020年9月発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2009/pic_dt_doraemon50th_01.jpg",
       "carInfo": "ドラえもん50周年を記念してドリームトミカより、特別なラッピングバスが登場！"
+    },
+    {
+      "carName": "AEON NO.52 三菱 ランサーエボリューションⅣ マレーシア警察仕様",
+      "carPrice": "2020年9月26日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2009/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.52 三菱 ランサーエボリューションⅣ マレーシア警察仕様が登場！\nサスペンション"
     }
   ],
   // 202008
