@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311973&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-189a トヨタ スタウト（青）",
+    "specInfo": "発売時期：2021年2月\n価格：3,200円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311959&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-188a トヨタ スタウト レッカー車（緑）",
+    "specInfo": "発売時期：2021年1月\n価格：3,200円（税抜）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736312390&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "TLV-174d プリンス グロリア スーパー6（黒）66年式",
