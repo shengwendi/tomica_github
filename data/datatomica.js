@@ -5,6 +5,27 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202011
+  [
+    {
+      "carName": "No.36 ダイハツ ロッキー",
+      "carPrice": "2020年11月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2011/pic_036_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.46 マツダ３",
+      "carPrice": "2020年11月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2011/pic_046_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "39 シルエイティ (ＲＰＳ１３改）",
+      "carPrice": "2020年11月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2011/pic_39_01.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/62"
+    }
+  ],
   // 202010
   [
     {
