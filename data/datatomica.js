@@ -24,6 +24,18 @@ var datatomica = [
       "carPrice": "2020年11月発売予定 メーカー希望小売価格 800円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2011/pic_39_01.jpg",
       "carInfo": "サスペンション／左右ドア開閉\n1/62"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディ Z イタリア国旗タイプ",
+      "carPrice": "2020年11月14日(土)発売予定 メーカー希望小売価格 700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2011/pic_so_apita_01.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「イタリア国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム　日産 フェアレディＺ ３００ＺＸ ツインターボ",
+      "carPrice": "2020年11月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2011/pic_sso_ttmo_tp_nfz_300zx_tt_01.jpg",
+      "carInfo": "サスペンション\n1/60"
     }
   ],
   // 202010
@@ -65,10 +77,22 @@ var datatomica = [
       "carInfo": "映画最新作に登場する新コスチュームを着たミニオン/ボブがドリームトミカになって登場！\nサスペンション"
     },
     {
+      "carName": "トミカ５０周年ヒストリーセレクション 2010-2019 Vol.5 日産 フェアレディ Z",
+      "carPrice": "2020年10月発売予定 メーカー希望小売価格 1,000円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2010/pic_historyselection_vol05_01.png",
+      "carInfo": "2020年生誕50周年を迎える「トミカ」の歴史を振り返り、トミカが誕生した1970年から10年毎の歴史と共に、その年毎に「今でも印象が強い車」のトミカがセットになった商品です。\nサスペンション／左右ドア開閉"
+    },
+    {
       "carName": "トイザらス オリジナル メルセデス-ＡＭＧ ＧＴ Ｒ ＰＲＯデザイン仕様",
       "carPrice": "2020年10月17日(土)発売予定 メーカー希望小売価格 700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2010/pic_so_toysrus.jpg",
       "carInfo": "今回のトイザらス オリジナルトミカは、メルセデス-ＡＭＧ ＧＴ Ｒ ＰＲＯデザイン仕様が登場!\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "スヌーピータウンショップ オリジナルドリームトミカ タキシードスヌーピー",
+      "carPrice": "2020年10月3日(土)発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2010/pic_dt_snoopy_01.jpg",
+      "carInfo": "スヌーピータウンショップオリジナル商品として、ドリームトミカ タキシードスヌーピーが登場！\nサスペンション"
     }
   ],
   // 202009
