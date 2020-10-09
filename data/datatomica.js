@@ -5,6 +5,57 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202012
+  [
+    {
+      "carName": "No.26 トヨタ クラウン",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_026_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.84 レクサス ＲＣ Ｆ パフォーマンスパッケージ",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 450円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_084_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.141 自衛隊 重装輪回収車",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_141_01.jpg",
+      "carInfo": "クレーン回転／ブーム伸縮／上下／吊り上げ牽引装着可能"
+    },
+    {
+      "carName": "No.142 きかんしゃジェームス",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_142_01.jpg",
+      "carInfo": "連結・切り離し／積み換え"
+    },
+    {
+      "carName": "No.143 きかんしゃヒロ",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_143_01.jpg",
+      "carInfo": "連結・切り離し"
+    },
+    {
+      "carName": "07 ルナクルーザー",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 900円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_tp_07_lc_01.jpg",
+      "carInfo": "ルナクルーザーは国立研究開発法人宇宙航空研究開発機構（JAXA)とトヨタ自動車株式会社が共同研究中の車両です。\n1/110"
+    },
+    {
+      "carName": "40 トヨタ スプリンター トレノ （ＡＥ８６）",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 800円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_tp_40_ae86_01.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/60"
+    },
+    {
+      "carName": "万福トミカ",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 各700円(税抜)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_manpuku_01.jpg",
+      "carInfo": "伝統のおめでたいものをテーマに６種のトミカをデザインしました。 開けてみるまで何が入っているかわからないくじ形式の商品となります。\n●車種リスト\n・金魚 （金運招福） ：スバル 360\n・お節 （五穀豊穣） ：ダイハツ ミゼット\n・丑　 （家内安全） ：ホンダ N BOX\n・豚　 （福徳円満） ：スズキ キャリイ\n・鶴　 （鶴寿千歳） ：日産 フェアレディZ\n・アマビエ（無病息災） ：スズキ ジムニー"
+    }
+  ],
   // 202011
   [
     {
