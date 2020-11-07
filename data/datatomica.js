@@ -54,6 +54,12 @@ var datatomica = [
       "carPrice": "2020年12月発売予定 メーカー希望小売価格 各700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_manpuku_01.jpg",
       "carInfo": "伝統のおめでたいものをテーマに６種のトミカをデザインしました。 開けてみるまで何が入っているかわからないくじ形式の商品となります。\n●車種リスト\n・金魚 （金運招福） ：スバル 360\n・お節 （五穀豊穣） ：ダイハツ ミゼット\n・丑　 （家内安全） ：ホンダ N BOX\n・豚　 （福徳円満） ：スズキ キャリイ\n・鶴　 （鶴寿千歳） ：日産 フェアレディZ\n・アマビエ（無病息災） ：スズキ ジムニー"
+    },
+    {
+      "carName": "トミカショップオリジナル トミカショップラーメン屋台",
+      "carPrice": "2020年12月5日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_so_tso.jpg",
+      "carInfo": "「トミカショップラーメン屋台」がトミカショップオリジナル商品として登場！"
     }
   ],
   // 202011
