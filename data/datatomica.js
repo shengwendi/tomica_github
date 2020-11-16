@@ -5,6 +5,39 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202101
+  [
+    {
+      "carName": "No.58 グリコワゴン",
+      "carPrice": "2021年1月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_058_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.89 ランボルギーニ シアン FKP 37",
+      "carPrice": "2021年1月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_084_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "ドリームトミカ サンリオキャラクターズコレクション2",
+      "carPrice": "2021年1月発売予定 メーカー希望小売価格 各770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_dt_sanrio_01.jpg",
+      "carInfo": "『サンリオキャラクターズ』がドリームトミカになって登場！\n「ハローキティ」「シナモロール」「ポチャッコ」「ポムポムプリン」「バッドばつ丸」「あひるのペックル」の全6種類。商品には、全6種類のうち、どれか1種類が入っています。"
+    },
+    {
+      "carName": "02 ホンダ インテグラ タイプＲ",
+      "carPrice": "2021年1月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_tp_integla_01.jpg",
+      "carInfo": "1/62\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "21 トヨタ ソアラ",
+      "carPrice": "2021年1月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_tp_soala_01.jpg",
+      "carInfo": "1/63\nサスペンション／左右ドア開閉"
+    }
+  ],
   // 202012
   [
     {
