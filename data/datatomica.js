@@ -36,6 +36,42 @@ var datatomica = [
       "carPrice": "2021年1月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_tp_soala_01.jpg",
       "carInfo": "1/63\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "トミカプレミアムRS ラフェラーリ",
+      "carPrice": "2021年1月発売予定 メーカー希望小売価格 3,850円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_tp_laferrari_01.jpg",
+      "carInfo": "1/43\nボンネット開閉／左右ドア開閉／リアカウル開閉"
+    },
+    {
+      "carName": "トイザらス オリジナル ランボルギーニ アヴェンタドール ナツィオナーレデザイン仕様",
+      "carPrice": "2021年1月1日(金)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_so_toysrus_01.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、ランボルギーニ アヴェンタドール ナツィオナーレデザイン仕様が登場！\nサスペンション"
+    },
+    {
+      "carName": "AEON NO.53 ホンダ NSX-R 英国警察仕様",
+      "carPrice": "2021年1月1日(金)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.53 ホンダ NSX-R 英国警察仕様が登場！\nサスペンション"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディ Z 日本国旗タイプ Ⅰ 夢２０２１日本",
+      "carPrice": "2021年1月1日(金)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_so_apita_01.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「 日本国旗タイプ Ⅰ　夢 ２０２１ 日本」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "イトーヨーカドーオリジナル マツダ RX-7 トリコロールカラー仕様",
+      "carPrice": "2021年1月1日(金)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_so_itoyokado_01.jpg",
+      "carInfo": "イトーヨーカドーオリジナル商品として、マツダ RX-7 トリコロールカラ—仕様が登場！\nサスペンション／左右ドア開閉\n取り扱い…全国のイトーヨーカドー各店(一部取扱いの無い店舗がございます)"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム ホンダ NSX Type R",
+      "carPrice": "2021年1月23日(土)発売予定発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2101/pic_so_tomymall_01.jpg",
+      "carInfo": "サスペンション\n1/60"
     }
   ],
   // 202012
@@ -87,6 +123,12 @@ var datatomica = [
       "carPrice": "2020年12月発売予定 メーカー希望小売価格 各700円(税抜)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_manpuku_01.jpg",
       "carInfo": "伝統のおめでたいものをテーマに６種のトミカをデザインしました。 開けてみるまで何が入っているかわからないくじ形式の商品となります。\n●車種リスト\n・金魚 （金運招福） ：スバル 360\n・お節 （五穀豊穣） ：ダイハツ ミゼット\n・丑　 （家内安全） ：ホンダ N BOX\n・豚　 （福徳円満） ：スズキ キャリイ\n・鶴　 （鶴寿千歳） ：日産 フェアレディZ\n・アマビエ（無病息災） ：スズキ ジムニー"
+    },
+    {
+      "carName": "トミカ５０周年ヒストリーセレクション 2020 Vol.6 BMW Z4",
+      "carPrice": "2020年12月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2012/pic_historyselection_vol06_01.jpg",
+      "carInfo": "2020年生誕50周年を迎える「トミカ」の歴史を振り返り、トミカが誕生した1970年から10年毎の歴史と共に、その年毎に「今でも印象が強い車」のトミカがセットになった商品です。\nサスペンション／ソフトトップ脱着"
     },
     {
       "carName": "トミカショップオリジナル トミカショップラーメン屋台",
