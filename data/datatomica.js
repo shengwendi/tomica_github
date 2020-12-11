@@ -5,6 +5,57 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202002
+  [
+    {
+      "carName": "No.40 ホンダ シビック TYPE R",
+      "carPrice": "2021年2月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2102/pic_040_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.52 マツダ CX-5 河川パトロールカー",
+      "carPrice": "2021年2月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2102/pic_052_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "トミカタウン サウンドライトふみきり",
+      "carPrice": "2021年2月発売予定 メーカー希望小売価格 1,760円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2102/pic_tt_fumikiri_01.jpg",
+      "carInfo": "トミカと遊ぼう！サウンド&ライト搭載の踏切が登場！"
+    },
+    {
+      "carName": "たくさんはこぼう！トミカフェリー",
+      "carPrice": "2021年2月発売予定 メーカー希望小売価格 3,850円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2102/pic_tt_ferry_01.jpg",
+      "carInfo": "トミカを乗せて出航！トミカの大きなカーフェリー！"
+    },
+    {
+      "carName": "ディズニーモータース　ドゥービー ミニーマウス ホワイトデーエディション２０２１",
+      "carPrice": "2021年2月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2102/pic_dm_ddwe2021_01.jpg",
+      "carInfo": "三輪タイプの働く車『ドゥービー』のケーキ屋さんのショップワゴンです。\nホワイトデーにぴったりのポップでかわいい仕様になっています。"
+    },
+    {
+      "carName": "カーズ トミカ Ｃ－０３ ライトニング・マックィーン（クルージングタイプ）",
+      "carPrice": "2021年2月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2102/pic_ct_c03_01.jpg",
+      "carInfo": "© Disney/Pixar"
+    },
+    {
+      "carName": "カーズ トミカ　Ｃ－１９ トラクター（スタンダードタイプ）",
+      "carPrice": "2021年2月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2102/pic_ct_c19_01.jpg",
+      "carInfo": "© Disney/Pixar"
+    },
+    {
+      "carName": "カーズ トミカ Ｃ－４９ メーター（ヤングタイプ）",
+      "carPrice": "2021年2月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2102/pic_ct_c49_01.jpg",
+      "carInfo": "© Disney/Pixar"
+    },
+  ],
   // 202101
   [
     {

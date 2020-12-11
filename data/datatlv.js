@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314981&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-192b トヨペット クラウンハードトップ スーパーデラックス 70年式（金/黒） ",
+    "specInfo": "発売時期：2021年4月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1960年代／1970年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314974&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-192a トヨペット クラウンハードトップSL 70年式（青/黒）",
+    "specInfo": "発売時期：2021年4月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1960年代／1970年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311973&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-189a トヨタ スタウト（青）",
