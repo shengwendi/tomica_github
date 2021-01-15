@@ -26,6 +26,30 @@ var datatomica = [
       "carInfo": "本体取り外し／左右可動／コンテナ脱着"
     },
     {
+      "carName": "ドリームトミカ SP すみっコぐらし しろくまのたぴおかワゴン",
+      "carPrice": "2021年3月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2103/pic_dtsp_shirokuma_01.jpg",
+      "carInfo": "すみっコぐらし しろくまのたぴおかワゴンがドリームトミカに登場！\nサスペンション、カウンター開閉"
+    },
+    {
+      "carName": "ドリームトミカ SP すみっコぐらし とかげのおすし屋さん",
+      "carPrice": "2021年3月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2103/pic_dtsp_tokage_01.jpg",
+      "carInfo": "すみっコぐらし しろくまのたぴおかワゴンがドリームトミカに登場！\nサスペンション、カウンター開閉"
+    },
+    {
+      "carName": "ドリームトミカ SP すみっコぐらし ねこのすみっコ喫茶ワゴン",
+      "carPrice": "2021年3月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2103/pic_dtsp_neko_01.jpg",
+      "carInfo": "すみっコぐらし しろくまのたぴおかワゴンがドリームトミカに登場！\nサスペンション、カウンター開閉"
+    },
+    {
+      "carName": "ドリームトミカ SP すみっコぐらし とんかつのくしかつ屋さん",
+      "carPrice": "2021年3月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2103/pic_dtsp_tonkatsu_01.jpg",
+      "carInfo": "すみっコぐらし しろくまのたぴおかワゴンがドリームトミカに登場！\nサスペンション、カウンター開閉"
+    },
+    {
       "carName": "ドライブセーバー／ディズニー　ＤＳ－０６　シャドーポリス／ミッキーマウス",
       "carPrice": "2021年3月発売予定 メーカー希望小売価格 1,100円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2103/pic_ds_ds06_01.jpg",
