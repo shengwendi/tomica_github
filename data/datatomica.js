@@ -5,7 +5,40 @@
   "carInfo": ""
 }*/
 var datatomica = [
-  // 202003
+  // 202104
+  [
+    {
+      "carName": "鬼滅の刃トミカ vol.1 01 竈門 炭治郎",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_kimetsu_tanjiro_01.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n© 吾峠呼世晴／集英社・アニプレックス・ufotable"
+    },
+    {
+      "carName": "鬼滅の刃トミカ vol.1 02 竈門 禰豆子",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_kimetsu_nezuko_01.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n※禰豆子の「禰」は「ネ＋爾」が正しい表記となります。\n© 吾峠呼世晴／集英社・アニプレックス・ufotable"
+    },
+    {
+      "carName": "鬼滅の刃トミカ vol.1 03 我妻 善逸",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_kimetsu_zenitsu_01.jpg",
+      "carInfo": "サスペンション／後部ドア開閉\n© 吾峠呼世晴／集英社・アニプレックス・ufotable"
+    },
+    {
+      "carName": "鬼滅の刃トミカ vol.1 04 嘴平 伊之助",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_kimetsu_inosuke_01.jpg",
+      "carInfo": "サスペンション\n© 吾峠呼世晴／集英社・アニプレックス・ufotable"
+    },
+    {
+      "carName": "鬼滅の刃トミカ vol.1 05 栗花落 カナヲ",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_kimetsu_kanawo_01.jpg",
+      "carInfo": "サスペンション／パネル開閉\n© 吾峠呼世晴／集英社・アニプレックス・ufotabl"
+    }
+  ],
+  // 202103
   [
     {
       "carName": "No.47 ダイハツ タフト",
@@ -60,9 +93,21 @@ var datatomica = [
       "carPrice": "2021年3月発売予定 メーカー希望小売価格 1,100円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2103/pic_ds_ds07_01.jpg",
       "carInfo": "ユニークなギミックを搭載したフィギュア一体型のトミカ！\nチームをサポートするポリスビークル。透明なレーダーパーツを搭載したミニーマウスのトミカです。\nレーダーパーツは取り外し可能で、既発売のドライブセーバーシリーズDS-01～05のビークルとも連動可能です。　"
+    },
+    {
+      "carName": "トイザらス オリジナル SUBARU BRZ クールグレーカーキエディション",
+      "carPrice": "2021年3月20日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2103/pic_so_toysrus_01.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、SUBARU BRZ クールグレーカーキエディションが登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "TCNオリジナル　カルソニックチームインパル レーシングトラック",
+      "carPrice": "2021年3月27日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2103/pic_so_tcn_01.jpg",
+      "carInfo": "カルソニックチームインパル レーシングトラックがTCNオリジナルとして登場！\nマレリ株式会社 商品化許諾済\n※販売に関する情報は以下のリンク先をご確認ください。"
     }
   ],
-  // 202002
+  // 202102
   [
     {
       "carName": "No.40 ホンダ シビック TYPE R",
