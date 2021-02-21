@@ -8,6 +8,66 @@ var datatomica = [
   // 202104
   [
     {
+      "carName": "No.94 いすゞ エルフ 橋梁点検車",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_094_01.jpg",
+      "carInfo": "サスペンション／ブーム伸縮／上下／旋回"
+    },
+    {
+      "carName": "No.120 フェラーリ SF90 ストラダーレ",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_120_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "事件を解決！警察車両コレクション",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 2,200円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_ksc_01.jpg",
+      "carInfo": "街の平和を守る様々な警察車両がセットになってトミカギフトセットから登場！"
+    },
+    {
+      "carName": "ぶるっと給油！おしごと変形ガソリンスタンドENEOS",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 4,180円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_brueneoos_01.jpg",
+      "carInfo": "手転がしで遊べるタンクローリーがかんたん変形でガソリンスタンドに変身！"
+    },
+    {
+      "carName": "ぴゅぴゅっと消火！おしごと変形消防署",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 4,180円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_shouka_01.jpg",
+      "carInfo": "手転がしで遊べる消防車がかんたん変形で消防署に変身！"
+    },
+    {
+      "carName": "１０ トヨタ ヤリスWRC",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 990円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_tp_yaris_04.jpg",
+      "carInfo": "1/58\nサスペンション（ロングストローク）"
+    },
+    {
+      "carName": "１２ ランボルギーニ カウンタック ２５ｔｈ アニバーサリー",
+      "carPrice": "2021年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_tp_lambo25th_01.jpg",
+      "carInfo": "1/61\nエンジンフード開閉"
+    },
+    {
+      "carName": "カーズ トミカ Ｃ－２６　ラモーン（スタンダードタイプ）",
+      "carPrice": "2021年4月24日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_ct_c26_01.jpg",
+      "carInfo": "© Disney/Pixar ; Chevrolet™"
+    },
+    {
+      "carName": "カーズ トミカ　Ｃ－２７　フロー（スタンダードタイプ）",
+      "carPrice": "2021年4月24日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_ct_c27_01.jpg",
+      "carInfo": "© Disney/Pixar"
+    },
+    {
+      "carName": "カーズ トミカ　Ｃ－３７　メーター（タイムトラベルタイプ）",
+      "carPrice": "2021年4月24日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_ct_c37_01.jpg",
+      "carInfo": "© Disney/Pixar"
+    },
+    {
       "carName": "鬼滅の刃トミカ vol.1 01 竈門 炭治郎",
       "carPrice": "2021年4月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_kimetsu_tanjiro_01.jpg",
