@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311966&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-188b トヨタ スタウト レッカー（黄）",
+    "specInfo": "発売時期：2021年9月\n価格：3,850円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311980&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-189b トヨタ スタウト（白）",
+    "specInfo": "発売時期：2021年9月\n価格：3,520円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736312529&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-86f ポルシェ911（黄色）",
@@ -10,6 +22,18 @@ var datatlv = [
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-86g ポルシェ911S（マルーン）",
     "specInfo": "発売時期：2021年7月\n価格：2,970円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736317852&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-173d スバル360（薄緑色）61年式",
+    "specInfo": "発売時期：2021年7月\n価格：2,860円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：SUBARU"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736317845&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-173c スバル360（ベージュ）61年式",
+    "specInfo": "発売時期：2021年7月\n価格：2,860円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：SUBARU"
   },
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314929&num=1",

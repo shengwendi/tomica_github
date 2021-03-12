@@ -5,6 +5,21 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202105
+  [
+    {
+      "carName": "No.44 日産 NV400 EV救急車",
+      "carPrice": "2021年5月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2105/pic_044_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.115 スバル WRX S4 STI Sport #",
+      "carPrice": "2021年5月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2105/pic_115_01.jpg",
+      "carInfo": "サスペンション"
+    }
+  ],
   // 202104
   [
     {
@@ -96,6 +111,24 @@ var datatomica = [
       "carPrice": "2021年4月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_kimetsu_kanawo_01.jpg",
       "carInfo": "サスペンション／パネル開閉\n© 吾峠呼世晴／集英社・アニプレックス・ufotabl"
+    },
+    {
+      "carName": "ディズニーモータース チムチム ミッキーマウス 桜エディション2021",
+      "carPrice": "2021年4月3日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_dm_cmcm_sakura_mickey_01.jpg",
+      "carInfo": "春の季節にぴったりな桜柄のディズニーモータースが登場！"
+    },
+    {
+      "carName": "ディズニーモータース チムチム ミニーマウス 桜エディション2021",
+      "carPrice": "2021年4月3日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_dm_cmcm_sakura_minny_01.jpg",
+      "carInfo": "春の季節にぴったりな桜柄のディズニーモータースが登場！"
+    },
+    {
+      "carName": "トミカショップオリジナル　いすゞ エルフ トミカ５０周年記念トラック",
+      "carPrice": "2021年4月3日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2104/pic_so_tso_elf.jpg",
+      "carInfo": "「いすゞ エルフ トミカ５０周年記念トラック」がトミカショップオリジナル商品として登場！\nサスペンション／パネル開閉"
     }
   ],
   // 202103
