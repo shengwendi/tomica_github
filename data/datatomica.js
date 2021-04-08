@@ -18,6 +18,18 @@ var datatomica = [
       "carPrice": "2021年5月発売予定 メーカー希望小売価格 495円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2105/pic_115_01.jpg",
       "carInfo": "サスペンション"
+    },
+    {
+      "carName": "トイザらス オリジナル 日産 スカイライン 400R スプリント・コンセプト カラーリング仕様",
+      "carPrice": "2021年5月15日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2105/pic_so_toysrus_01.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、日産 スカイライン 400R スプリント・コンセプト カラーリング仕様が登場！\nサスペンション"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディ Z フランス国旗タイプ",
+      "carPrice": "2021年5月22日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2105/pic_so_apita_01.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「 フランス国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
     }
   ],
   // 202104

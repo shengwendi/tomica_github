@@ -6,6 +6,18 @@ var datatlv = [
     "specInfo": "発売時期：2021年9月\n価格：3,850円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
   },
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736316626&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-195a ダットサン トラック 1300デラックス（ブリヂストン）",
+    "specInfo": "発売時期：2021年9月\n価格：3,300円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736316633&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-194a ダットサン トラック 北米仕様（赤）",
+    "specInfo": "発売時期：2021年9月\n価格：3,300円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311980&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-189b トヨタ スタウト（白）",
