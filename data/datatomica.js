@@ -5,6 +5,93 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202106
+  [
+    {
+      "carName": "No.6 日産 キックス",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_006_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.145 名古屋市消防局 30m級先端屈折式はしご車",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 990円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_145_01.jpg",
+      "carInfo": "はしご伸縮・上下・旋回・屈折"
+    },
+    {
+      "carName": "No.146 きかんしゃゴードン",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 990円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_146_01.jpg",
+      "carInfo": "連結・切り離し"
+    },
+    {
+      "carName": "トミカスピードウェイ　実況サウンド！デジタルアクセルサーキット",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 12,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_tw_speedway_01.jpg",
+      "carInfo": "実況サウンドで盛り上がる！トミカを競争させて遊べる超高速のサーキットが登場！ デジタルカウンター搭載で本格的なレースバトルが実現！"
+    },
+    {
+      "carName": "スーパースピードトミカ SST-01 TEAM TSR TOYOTA GR SUPRA [PROJECT-α]",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_tw_sst01_01.jpg",
+      "carInfo": "高速チューンナップされた“スーパースピードトミカ”に「トヨタ GR スープラ」が登場！"
+    },
+    {
+      "carName": "スーパースピードトミカ SST-02 TEAM SHINOBI NISSAN GT-R [翔EDITION]",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_tw_sst02_01.jpg",
+      "carInfo": "高速チューンナップされた“スーパースピードトミカ”に「日産 GT-R」が登場！"
+    },
+    {
+      "carName": "スーパースピードトミカ SST-03 TEAM WING Honda CIVIC TYPE R [concept Eagle]",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_tw_sst03_01.jpg",
+      "carInfo": "高速チューンナップされた“スーパースピードトミカ”に「ホンダ シビック TYPE R」が登場！"
+    },
+    {
+      "carName": "スーパースピードトミカ　SST-04 TEAM MONSTER SUBARU WRX STI [T-REX CUSTOM]",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_tw_sst04_01.jpg",
+      "carInfo": "高速チューンナップされた“スーパースピードトミカ”に「スバル WRX STI」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP MFゴースト/トヨタ 86 GT",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_dtspmfg_toyota86_01.jpg",
+      "carInfo": "『MFゴースト』より「トヨタ 86 GT」がドリームトミカになって登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "ドリームトミカ SP MFゴースト/トヨタ GR スープラ",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_dtspmfg_toyotasupra_01.jpg",
+      "carInfo": "『MFゴースト』より「トヨタ GR スープラ」がドリームトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "ドリームトミカ SP MFゴースト/ホンダ シビック TYPE R",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_dtspmfg_hondacivic_01.jpg",
+      "carInfo": "『MFゴースト』より「ホンダ シビック TYPE R」がドリームトミカになって登場！\nサスペンション"
+    },
+    {
+      "carName": "トミカプレミアム08 日産 スカイライン 2000 ターボ GT-E・ S",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_tp_skyline2000_01.jpg",
+      "carInfo": "1/63\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "ランボルギーニ ウラカン ペルフォルマンテ トミカ５０周年記念仕様 designed by Automobili Lamborghini",
+      "carPrice": "2021年6月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_50th_lambo_01.jpg",
+      "carInfo": "1/63\nサスペンション"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル ディズニーモータース ルントット ミッキーマウス",
+      "carPrice": "2021年6月26日発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_disney_01.jpg",
+      "carInfo": "丸くてかわいい新車種がディズニーモータースから登場です！ルーフには、荷物をぎっしり積んだキャリアがついています。バッグや毛布など、どこかにおでかけできそうな雰囲気です。程よいクラシック感と親しみを持ち合わせた一台です。"
+    },
+  ],
   // 202105
   [
     {
