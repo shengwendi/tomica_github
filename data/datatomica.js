@@ -102,6 +102,18 @@ var datatomica = [
       "carPrice": "2021年7月発売予定 メーカー希望小売価格 770円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2107/pic_epalette_01.jpg",
       "carInfo": "-"
+    },
+    {
+      "carName": "トイザらス オリジナル ランボルギーニ ムルシエラゴ　40thアニバーサリー カラーリング仕様",
+      "carPrice": "2021年7月17日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2107/pic_so_toysrus_01.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、ランボルギーニ ムルシエラゴ 40thアニバーサリー カラーリング仕様が登場！\nサスペンション"
+    },
+    {
+      "carName": "TCNオリジナル　AUTOBACS RACING TEAM AGURI TRUCK",
+      "carPrice": "2021年7月24日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2107/pic_so_tcn_01.jpg",
+      "carInfo": "AUTOBACS RACING TEAM AGURI TRUCKがTCNオリジナルとして登場！\nAUTOBACS及びARTAは(株)オートバックスセブンの登録商標です。"
     }
   ],
   // 202106
@@ -185,6 +197,12 @@ var datatomica = [
       "carInfo": "1/63\nサスペンション"
     },
     {
+      "carName": "トミカショップオリジナル　三菱 ランサーエボリューションⅣ 消防指揮車仕様",
+      "carPrice": "2021年6月5日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_so_tso_mlw.jpg",
+      "carInfo": "「三菱 ランサーエボリューションⅣ 消防指揮車仕様」がトミカショップオリジナル商品として登場！"
+    },
+    {
       "carName": "タカラトミーモールオリジナル ディズニーモータース ルントット ミッキーマウス",
       "carPrice": "2021年6月26日発売予定 メーカー希望小売価格 1,100円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2106/pic_disney_01.jpg",
@@ -216,6 +234,12 @@ var datatomica = [
       "carPrice": "2021年5月22日(土)発売予定 メーカー希望小売価格 770円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2105/pic_so_apita_01.jpg",
       "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「 フランス国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "AEON NO.56　ホンダ シビック TYPE R マレーシア警察仕様",
+      "carPrice": "2021年5月22日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2105/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.56 ホンダ シビック TYPE R マレーシア警察仕様が登場！\nサスペンション"
     }
   ],
   // 202104
