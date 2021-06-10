@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314998&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-143d ダイハツ ミゼット（黄緑/ベージュ）フィギュア付",
+    "specInfo": "発売時期：2021年11月\n価格：3,740円（税込）\nスケール：1/64\n自動車の発売年代：1950年代／1960年代\n自動車メーカー：ダイハツ工業"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736315001&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-197a ダイハツ ミゼット パトロールカー",
+    "specInfo": "発売時期：2021年10月\n価格：2,860円（税込）\nスケール：1/64\n自動車の発売年代：1950年代／1960年代\n自動車メーカー：ダイハツ工業"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311966&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-188b トヨタ スタウト レッカー（黄）",
@@ -16,6 +28,18 @@ var datatlv = [
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-194a ダットサン トラック 北米仕様（赤）",
     "specInfo": "発売時期：2021年9月\n価格：3,300円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311539&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV フェラーリ 365 GTB4（紺）",
+    "specInfo": "発売時期：2021年9月\n価格：6,380円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736302216&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV フェラーリ 365 GTS4（黒）",
+    "specInfo": "発売時期：2021年9月\n価格：6,380円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：輸入車"
   },
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736311980&num=1",
