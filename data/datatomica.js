@@ -5,6 +5,39 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202108
+  [
+    {
+      "carName": "No.17 フェラーリ ローマ",
+      "carPrice": "2021年8月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_017_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.60 Honda e",
+      "carPrice": "2021年8月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_060_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "わくわく！トミカのたべもの屋さんセット",
+      "carPrice": "2021年8月発売予定 メーカー希望小売価格 2,200円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_tabeonoya_01.jpg",
+      "carInfo": "いろいろなたべものの移動販売車がセットになってトミカギフトセットから登場！"
+    },
+    {
+      "carName": "23 日産 GT-R50 by イタルデザイン",
+      "carPrice": "2021年8月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_tp_23_gtr50_01.jpg",
+      "carInfo": "1/63"
+    },
+    {
+      "carName": "ディズニーモータース　ＤＭ－１４ チャビーローダー ミッキーマウス",
+      "carPrice": "2021年8月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_disney_dm14_01.jpg",
+      "carInfo": "ディズニーモータースから、ミッキーマウスデザインのかわいい働く車が登場！"
+    }
+  ],
   // 202107
   [
     {
