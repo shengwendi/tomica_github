@@ -5,6 +5,81 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202109
+  [
+    {
+      "carName": "No.37 ブガッティ シロン ピュアスポーツ",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_037_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.67 トヨタ ハイラックス",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_067_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.147 ＵＤトラックス クオン トレーラーダンプ",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 990円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_147_01.jpg",
+      "carInfo": "荷台上下・砂利積み下ろし"
+    },
+    {
+      "carName": "ドリームトミカ No.158 ドラえもん ラッピングバス",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_dt_158_doraemon_01.jpg",
+      "carInfo": "ドリームトミカに「ドラえもん ラッピングバス」が登場！\nサスペンション"
+    },
+    {
+      "carName": "ドリームトミカ No.162 おしりたんてい",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_dt_162_oshiri_01.jpg",
+      "carInfo": "ドリームトミカに「おしりたんてい」が登場！\nサスペンション"
+    },
+    {
+      "carName": "１９　トヨタ セルシオ",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_tp_celsior_01.jpg",
+      "carInfo": "1/66\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "カーズ トミカ　ライトニング・マックィーン（ライトニング・マックィーンデイ 2021特別仕様）",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_cars_mcqueen_01.jpg",
+      "carInfo": "【ライトニング・マックィーンデイ2021】を記念した、特別なカラーリング（ゴールド）のマックィーンが登場！"
+    },
+    {
+      "carName": "カーズ トミカ　メーター（ライトニング・マックィーンデイ 2021特別仕様）",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_cars_meter_01.jpg",
+      "carInfo": "【ライトニング・マックィーンデイ2021】を記念した、特別なカラーリング（ゴールド）のメーターが登場！"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ ３インチ フェラーリ ４８８ ピスタ",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_tp_bbrago_488_pista_01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカーです。"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ　３インチ １９７１ シボレー カマロ Ｚ／２８",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_tp_bbrago_camaro_01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカーです。"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ １：４３ フェラーリ ラフェラーリ（黒）",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_tp_bbrago_laferrari_01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカーです。"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ １：４３ ２０１８ アルピーヌ Ａ１１０",
+      "carPrice": "2021年9月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_tp_bbrago_albino_01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカーです。"
+    },
+  ],
   // 202108
   [
     {
@@ -36,6 +111,36 @@ var datatomica = [
       "carPrice": "2021年8月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_disney_dm14_01.jpg",
       "carInfo": "ディズニーモータースから、ミッキーマウスデザインのかわいい働く車が登場！"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディ Z アメリカ国旗USAタイプ",
+      "carPrice": "2021年8月14日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_so_apita_01.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「アメリカ国旗USAタイプ」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "イトーヨーカドーオリジナル ダイハツ ミゼット",
+      "carPrice": "2021年8月7日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_so_itoyokado_01.jpg",
+      "carInfo": "イトーヨーカドーオリジナル商品としてダイハツ ミゼットがイトーヨーカドー100周年記念の特別仕様になって登場！\n取り扱い…全国のイトーヨーカドー各店(一部取扱いの無い店舗がございます)"
+    },
+    {
+      "carName": "ディズニーモータース　ポピンズコレクション２０２１",
+      "carPrice": "2021年8月25日(水)発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_so_dm_se_01.jpg",
+      "carInfo": "セブン＆アイオリジナル商品として、ディズニーモータースのくじ商品が登場！4種全てがセブン＆アイオリジナルでしか手に入らない特別仕様のデザインです。"
+    },
+    {
+      "carName": "トミカショップオリジナル トヨタ コースター トミカようちえんバス",
+      "carPrice": "2021年8月7日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_so_tomicashop_01.jpg",
+      "carInfo": "※お一人様3個までとさせていただきます。\n※トミカショップインターネット店でも販売いたします。\n※発売予定日は予期無く変更となる場合がございます。"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム ホンダ インテグラ タイプR",
+      "carPrice": "2021年8月28日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2108/pic_so_tmall_01.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/62"
     }
   ],
   // 202107
@@ -147,6 +252,12 @@ var datatomica = [
       "carPrice": "2021年7月24日(土)発売予定 メーカー希望小売価格 770円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2107/pic_so_tcn_01.jpg",
       "carInfo": "AUTOBACS RACING TEAM AGURI TRUCKがTCNオリジナルとして登場！\nAUTOBACS及びARTAは(株)オートバックスセブンの登録商標です。"
+    },
+    {
+      "carName": "AEON NO.57 トヨタ アルファード グアム警察仕様",
+      "carPrice": "2021年7月24日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2107/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.57 トヨタ アルファード グアム警察仕様が登場！\nサスペンション／後部ドア開閉"
     }
   ],
   // 202106

@@ -1,9 +1,45 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314943&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-198b マツダ ポーターキャブ 三方開（白）フィギュア付",
+    "specInfo": "発売時期：2022年1月\n価格：3,850円（税込）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：マツダ"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736313151&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV ランボルギーニ ミウラ SV（黄）",
+    "specInfo": "発売時期：2021年12月\n価格：7,920円（税込）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314936&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-198a マツダ ポーターキャブ 三方開（緑）フィギュア付",
+    "specInfo": "発売時期：2021年12月\n価格：3,850円（税込）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：マツダ"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314998&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-143d ダイハツ ミゼット（黄緑/ベージュ）フィギュア付",
     "specInfo": "発売時期：2021年11月\n価格：3,740円（税込）\nスケール：1/64\n自動車の発売年代：1950年代／1960年代\n自動車メーカー：ダイハツ工業"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736313144&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV ランボルギーニ ミウラ P400（朱）",
+    "specInfo": "発売時期：2021年11月\n価格：7,920円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736312024&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-196b トヨペット クラウン ハードトップ 68年式（赤）",
+    "specInfo": "発売時期：2021年11月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736312017&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-196a トヨペット クラウン ハードトップSL 68年式（白／黒）",
+    "specInfo": "発売時期：2021年11月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
   },
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736315001&num=1",
