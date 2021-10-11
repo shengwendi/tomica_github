@@ -5,6 +5,210 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202112
+  [
+    {
+      "carName": "No.72 ロータス エリーゼ スポーツ 220 Ⅱ",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_072_01.jpg",
+      "carInfo": "-"
+    },
+    {
+      "carName": "No.93 コペン GR SPORT",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_093_01.jpg",
+      "carInfo": "サスペンション／ハードトップ脱着"
+    },
+    {
+      "carName": "ドリームトミカ ライドオン ディズニー RD-01 ミッキーマウス&トゥーンカー",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_dtro_mickey_01.jpg",
+      "carInfo": "キャラクターフィギュアとトミカがセットになった『ドリームトミカ ライドオン』シリーズからミッキーマウスが登場！"
+    },
+    {
+      "carName": "ドリームトミカ ライドオン ディズニー RD-02 くまのプーさん&ハニーポット",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_dtro_pooh_01.jpg",
+      "carInfo": "キャラクターフィギュアとトミカがセットになった『ドリームトミカ ライドオン』シリーズからくまのプーさんが登場！"
+    },
+    {
+      "carName": "ドリームトミカ ライドオン ディズニー RD-03 バズ・ライトイヤー&RCカー",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_dtro_buzz_01.jpg",
+      "carInfo": "キャラクターフィギュアとトミカがセットになった『ドリームトミカ ライドオン』シリーズからバズ・ライトイヤーが登場！"
+    },
+    {
+      "carName": "トーマストミカ 08 ケンジ",
+      "carPrice": "2021年12月29日発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_thomastomica_08kenji_01.jpg",
+      "carInfo": "日本の超特急「ケンジ」が、トーマストミカに登場です。\n連結・切り離し"
+    },
+    {
+      "carName": "ｔｏｍｉｃａ ライトアップシアター ソリッドブラック",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 2,970円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_tomica_lightup_sb_01.jpg",
+      "carInfo": "お気に入りのトミカを”かっこよく””おしゃれ”に飾れる、煌めくディスプレイケースが登場。"
+    },
+    {
+      "carName": "ｔｏｍｉｃａ ライトアップシアター クールホワイト",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 2,970円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_tomica_lightup_cw_01.jpg",
+      "carInfo": "お気に入りのトミカを”かっこよく””おしゃれ”に飾れる、煌めくディスプレイケースが登場。"
+    },
+    {
+      "carName": "カーズ トミカ Ｃ－３８　カルラ・ヴェローゾ（スタンダードタイプ）",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_cars_carla_01.jpg",
+      "carInfo": "カーズ トミカに、『カーズ２』に登場する「カルラ・ヴェローゾ」が新しい表情で登場！"
+    },
+    {
+      "carName": "カーズ トミカ Ｃ－３９　ラウール・サルール（スタンダードタイプ）",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_cars_raoul_01.jpg",
+      "carInfo": "カーズ トミカに、『カーズ２』に登場する「ラウール・サルール」が新しい表情で登場！"
+    },
+    {
+      "carName": "ディズニーモータース ＤＭ－０８ ドリームスタークラシック ラプンツェル",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_disney_dm08_01.jpg",
+      "carInfo": "ディズニーモータースからラプンツェルの新車が登場！"
+    },
+    {
+      "carName": "ディズニーモータース サニーデッカー　ミッキーマウス バレンタインエディション２０２２",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_disney_sdve2022_01.jpg",
+      "carInfo": "ディズニーモータースのバレンタイン限定デザインが登場！車全体が、まるで板チョコみたいなデザイン！"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ ３インチ フェラーリ ラフェラーリ（赤）",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_burago_laferarrari_01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカーです。"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ ３インチ ２００８ ポルシェ ９１１ ＧＴ２",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_burago_porsche911_01.jpg",
+      "carInfo": "3インチサイズのダイキャスト製ミニカーです。"
+    },
+    {
+      "carName": "福ものトミカ",
+      "carPrice": "2021年12月29日発売予定 メーカー希望小売価格 各770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_fukumono_02.jpg",
+      "carInfo": "新年を祝う福ものトミカ！何が出るかはおたのしみ！"
+    },
+  ],
+  // 202111
+  [
+    {
+      "carName": "No.1 日産 スカイライン GT-R(BNR34) パトロールカー",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_001_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.86 トヨタ GR 86",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_086_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "フェラーリコレクション",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 2,200円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_ferarricolle_01.jpg",
+      "carInfo": "フェラーリの4台セットがトミカギフトから新登場！\n488 Spider、SF90 Stradale、LaFerrari Aperta、Ferrari Roma"
+    },
+    {
+      "carName": "ドリームトミカ SP PUI PUI モルカー 01 ポテト",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_puipui_potato_01.jpg",
+      "carInfo": "ドリームトミカに「PUI PUI モルカー」の「ポテト」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP PUI PUI モルカー 02 シロモ",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_puipui_shiromo_01.jpg",
+      "carInfo": "ドリームトミカに「PUI PUI モルカー」の「ポテト」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP PUI PUI モルカー 03 アビー",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_puipui_abby_01.jpg",
+      "carInfo": "ドリームトミカに「PUI PUI モルカー」の「ポテト」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP PUI PUI モルカー 04 チョコ",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_puipui_choco_01.jpg",
+      "carInfo": "ドリームトミカに「PUI PUI モルカー」の「ポテト」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP PUI PUI モルカー 05 テディ",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_puipui_teddy_01.jpg",
+      "carInfo": "ドリームトミカに「PUI PUI モルカー」の「ポテト」が登場！"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 01 ワイルド・スピード RX-7",
+      "carPrice": "2021年11月20日(土)発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_dtul_wildspeed_01.jpg",
+      "carInfo": "© Universal City Studios LLC. All Rights Reserved."
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 02 名探偵コナン フォード マスタング（赤井秀一）",
+      "carPrice": "2021年11月20日(土)発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_dtul_conan_01.jpg",
+      "carInfo": "左右ドア開閉／サスペンション\n© 青山剛昌／小学館･読売テレビ･TMS 1996"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 03 ナイトライダー ナイト2000 K.I.T.T.",
+      "carPrice": "2021年11月20日(土)発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_dtul_nightrider_01.jpg",
+      "carInfo": "左右ドア開閉／サスペンション\n© Universal City Studios LLC. All Rights Reserved."
+    },
+    {
+      "carName": "ディズニーモータース　キャスパルズ　ファイヤートラック ミッキーマウス　クラシックエディション",
+      "carPrice": "2021年11月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_disney_casper_fd_01.jpg",
+      "carInfo": "ディズニーモータースからミッキーデザインの消防車が登場！"
+    },
+    {
+      "carName": "トイザらス オリジナル トヨタ RAV4 豊田自動織機 カスタマイズ東京オートサロン2020カラーリング仕様",
+      "carPrice": "2021年11月20日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_so_toysrus_01.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、 トヨタ RAV4 豊田自動織機カスタマイズ東京オートサロン2020カラーリング仕様が登場！\nサスペンション／後部ドア開閉"
+    },
+    {
+      "carName": "TCNオリジナル NISSAN NISMO TRANSPORTER",
+      "carPrice": "2021年11月27日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_so_tcn_01.jpg",
+      "carInfo": "NISSAN NISMO TRANSPORTERがTCNオリジナルとして登場！"
+    },
+    {
+      "carName": "エディオン オリジナル ホンダ NSX-R",
+      "carPrice": "2021年11月20日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_so_edion.jpg",
+      "carInfo": "エディオン オリジナルトミカの「ホンダ NSX-R」が登場！\nサスペンション"
+    },
+    {
+      "carName": "ジョーシン オリジナル スバル WRX STI Type S",
+      "carPrice": "2021年11月27日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/picc_so_joshin_01.jpg",
+      "carInfo": "ジョーシン オリジナルトミカの「スバル WRX STI Type S」が登場！\nサスペンション／ボンネット開閉"
+    },
+    {
+      "carName": "ディズニーモータース ドリームスター ミッキーマウス バースデーエディション２０２１",
+      "carPrice": "2021年11月17日(水)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_so_711_disney_mickey_01.jpg",
+      "carInfo": "ミッキーマウスのお誕生日（11月18日）を記念したディズニーモータースが登場！\nミッキーマウスはタキシード・ミニーマウスは水玉ドレスの、セブン＆アイオリジナルデザインです。"
+    },
+    {
+      "carName": "ディズニーモータース ドリームスター ミニーマウス バースデーエディション２０２１",
+      "carPrice": "2021年11月17日(水)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2111/pic_so_711_disney_minny_01.jpg",
+      "carInfo": "ミッキーマウスのお誕生日（11月18日）を記念したディズニーモータースが登場！\nミッキーマウスはタキシード・ミニーマウスは水玉ドレスの、セブン＆アイオリジナルデザインです。"
+    }
+  ],
   // 202110
   [
     {
@@ -12,6 +216,12 @@ var datatomica = [
       "carPrice": "2021年10月発売予定 メーカー希望小売価格 495円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_100_01.jpg",
       "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.112 いすゞ エルガ すみっコぐらし×臨港バス",
+      "carPrice": "2021年10月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_112_01.jpg",
+      "carInfo": "※初回特別仕様の商品名は「No.112 いすゞ エルガ 臨港バス（初回特別仕様）」となります。"
     },
     {
       "carName": "くみかえアクション！ キャリアカー＆カーゴジェットセット",
@@ -86,10 +296,58 @@ var datatomica = [
       "carInfo": "美女と野獣』のジャンボリークルーザーが登場！"
     },
     {
+      "carName": "鬼滅の刃トミカ vol.3 11 不死川 実弥",
+      "carPrice": "2021年10月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_kimetsu_11.jpg",
+      "carInfo": "「鬼滅の刃トミカ」に「不死川 実弥」モデルが登場！"
+    },
+    {
+      "carName": "鬼滅の刃トミカ vol.3 12 甘露寺 蜜璃",
+      "carPrice": "2021年10月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_kimetsu_12.jpg",
+      "carInfo": "「鬼滅の刃トミカ」に「甘露寺 蜜璃」モデルが登場！"
+    },
+    {
+      "carName": "鬼滅の刃トミカ vol.3 13 伊黒 小芭内",
+      "carPrice": "2021年10月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_kimetsu_13.jpg",
+      "carInfo": "「鬼滅の刃トミカ」に「伊黒 小芭内」モデルが登場！"
+    },
+    {
+      "carName": "鬼滅の刃トミカ vol.3 14 宇髄 天元",
+      "carPrice": "2021年10月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_kimetsu_14.jpg",
+      "carInfo": "「鬼滅の刃トミカ」に「宇髄 天元」モデルが登場！"
+    },
+    {
       "carName": "トミカショップオリジナル トヨタ 2000GT",
       "carPrice": "2021年10月2日(土)発売予定 メーカー希望小売価格 770円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_so_toyota2000gt.jpg",
       "carInfo": "サスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディ Z インド国旗タイプ",
+      "carPrice": "2021年10月23日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_so_apita_01.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「インド国旗タイプ」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "ヤマダデンキ オリジナル トヨタ MR2",
+      "carPrice": "2021年10月16日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_so_yamada_01.jpg",
+      "carInfo": "ヤマダデンキ オリジナルトミカの「トヨタ MR2」が登場！\nサスペンション"
+    },
+    {
+      "carName": "スヌーピータウンショップ オリジナルドリームトミカ スヌーピー（SECRET AGENT）",
+      "carPrice": "2021年10月2日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_so_snoopy_01.jpg",
+      "carInfo": "スヌーピータウンショップオリジナル商品として、ドリームトミカ スヌーピー（SECRET AGENT）が登場！"
+    },
+    {
+      "carName": "キデイランド オリジナルドリームトミカ すみっコぐらし ぺんぎん（本物）",
+      "carPrice": "2021年10月9日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2110/pic_so_kiddyland_01.jpg",
+      "carInfo": "キデイランドオリジナル商品として、ドリームトミカ すみっコぐらし ぺんぎん（本物）が登場！\nサスペンション"
     }
   ],
   // 202109
@@ -166,6 +424,12 @@ var datatomica = [
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_tp_bbrago_albino_01.jpg",
       "carInfo": "1/43スケールのダイキャスト製ミニカーです。"
     },
+    {
+      "carName": "AEON NO.58 Jeep ラングラー オランダ警察仕様",
+      "carPrice": "2021年9月25日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2109/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.58 Jeep ラングラー オランダ警察仕様が登場！\nハードトップ脱着"
+    }
   ],
   // 202108
   [

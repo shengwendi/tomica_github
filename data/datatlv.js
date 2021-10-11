@@ -1,9 +1,21 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314950&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-195c ダットサン トラック 1300デラックス（白）フィギュア付き",
+    "specInfo": "発売時期：2022年3月\n価格：4,180円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736300793&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV ディーノ 246 GTS（黄）",
     "specInfo": "発売時期：2022年2月\n価格：5,280円（税込）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314967&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-195b ダットサン トラック 1500デラックス（水色）フィギュア付き",
+    "specInfo": "発売時期：2022年2月\n価格：4,180円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
   },
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314943&num=1",
