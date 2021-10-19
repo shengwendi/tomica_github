@@ -20,6 +20,18 @@ var datatomica = [
       "carInfo": "サスペンション／ハードトップ脱着"
     },
     {
+      "carName": "No.148 ハマー H2 リムジン",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 990円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_148_01.jpg",
+      "carInfo": "屋根脱着"
+    },
+    {
+      "carName": "No.149 いすゞ ギガ 特殊高圧タンク輸送車",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 990円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_149_01.jpg",
+      "carInfo": "本体取り外し/左右可動/タンク積み下ろし/タンク組み立て"
+    },
+    {
       "carName": "ドリームトミカ ライドオン ディズニー RD-01 ミッキーマウス&トゥーンカー",
       "carPrice": "2021年12月発売予定 メーカー希望小売価格 1,100円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_dtro_mickey_01.jpg",
@@ -80,6 +92,18 @@ var datatomica = [
       "carInfo": "ディズニーモータースのバレンタイン限定デザインが登場！車全体が、まるで板チョコみたいなデザイン！"
     },
     {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ １：４３ フェラーリ ローマ",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_burago_143_ferarriroma_01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカーです。"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ １：４３ ランボルギーニ アヴェンタドール ロードスター",
+      "carPrice": "2021年12月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_burago_roadster_01.jpg",
+      "carInfo": "1/43スケールのダイキャスト製ミニカーです。"
+    },
+    {
       "carName": "トミカプレゼンツ ブラーゴ ３インチ フェラーリ ラフェラーリ（赤）",
       "carPrice": "2021年12月発売予定 メーカー希望小売価格 770円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_burago_laferarrari_01.jpg",
@@ -97,6 +121,12 @@ var datatomica = [
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_fukumono_02.jpg",
       "carInfo": "新年を祝う福ものトミカ！何が出るかはおたのしみ！"
     },
+    {
+      "carName": "トミカショップオリジナル スバル レヴォーグ トミカタウンドクターカー仕様",
+      "carPrice": "2021年12月4日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2112/pic_so_tomicashop_01.jpg",
+      "carInfo": "※お一人様3個までとさせていただきます。\n※トミカショップインターネット店でも販売いたします。\n※発売予定日は予期無く変更となる場合がございます。"
+    }
   ],
   // 202111
   [
