@@ -5,6 +5,45 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202201
+  [
+    {
+      "carName": "No.29 トーマスランドエクスプレス",
+      "carPrice": "2022年1月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_029_01.jpg",
+      "carInfo": "富士急行株式会社商品化許諾済"
+    },
+    {
+      "carName": "No.75 アストンマーティン DBX",
+      "carPrice": "2022年1月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_075_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "ドリームトミカ No.157 おさるのジョージ",
+      "carPrice": "2022年1月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_dt_157_01.jpg",
+      "carInfo": "ドリームトミカに「おさるのジョージ」が登場！"
+    },
+    {
+      "carName": "04 三菱 パジェロ",
+      "carPrice": "2022年1月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_tp_04pajero_01.jpg",
+      "carInfo": "サスペンション／左右ドア開閉\n1/62"
+    },
+    {
+      "carName": "33 フェラーリ ＦＸＸ Ｋ",
+      "carPrice": "2022年1月発売予定 メーカー希望小売価格 990円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_tp_33ferrari_01.jpg",
+      "carInfo": "1/64"
+    },
+    {
+      "carName": "ディズニーモータース サニーデッカー　ミニーマウス ホワイトデーエディション２０２２",
+      "carPrice": "2022年1月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_dm_sdmm_01.jpg",
+      "carInfo": "ディズニーモータースの『サニーデッカー』からホワイトデー限定デザインが登場！"
+    }
+  ],
   // 202112
   [
     {

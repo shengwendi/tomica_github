@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320104&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-12d ダイハツ CO10T（茶）フィギュア付き",
+    "specInfo": "発売時期：2022年4月\n価格：4,950円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：ダイハツ工業"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320111&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-12e ダイハツ CO10T型（緑）",
+    "specInfo": "発売時期：2022年4月\n価格：3,850円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：ダイハツ工業"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736314950&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-195c ダットサン トラック 1300デラックス（白）フィギュア付き",
