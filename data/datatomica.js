@@ -42,6 +42,30 @@ var datatomica = [
       "carPrice": "2022年1月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_dm_sdmm_01.jpg",
       "carInfo": "ディズニーモータースの『サニーデッカー』からホワイトデー限定デザインが登場！"
+    },
+    {
+      "carName": "トイザらス オリジナル トヨタ GR スープラ セーフティーカー仕様",
+      "carPrice": "2022年1月1日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_so_toysrus_01.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、 トヨタ GR スープラ セーフティーカー仕様が登場！\nサスペンション"
+    },
+    {
+      "carName": "AEON NO.60 日産 スカイライン 日本警察パトロールカー仕様",
+      "carPrice": "2022年1月1日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.60 日産 スカイライン 日本警察パトロールカー仕様が登場！\nサスペンション"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル＜世界の国旗トミカ＞ フェアレディ Z 日本国旗タイプ Ⅱ 福 2022 日本",
+      "carPrice": "2022年1月1日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_so_apita_01.jpg",
+      "carInfo": "アピタ・ピアゴオリジナルトミカのテーマは「世界の国旗」！ 今回は「日本国旗タイプ Ⅱ 福 2022 日本」が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "イトーヨーカドーオリジナル マツダ ロードスター トリコロールカラー仕様",
+      "carPrice": "2022年1月1日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2201/pic_so_itoyokado_01.jpg",
+      "carInfo": "イトーヨーカドーオリジナル商品として、マツダ ロードスター トリコロールカラー仕様が登場！\nサスペンション／ソフトトップ脱着"
     }
   ],
   // 202112
