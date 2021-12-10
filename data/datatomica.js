@@ -5,6 +5,105 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202002
+  [
+    {
+      "carName": "No.21 光岡 バディ",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_021_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "２ＷＡＹでなが～くあそべる はじめてトミカ ちゅうしゃじょうセット",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 7,480円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_hajimetetomica_parking_01.jpg",
+      "carInfo": "1.5才から楽しく安全に遊べるはじめてトミカシリーズと一緒にあそべる駐車場が登場！"
+    },
+    {
+      "carName": "はじめてトミカ パトロールカー",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 935円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_hajimetetomica_patrolcar_01.jpg",
+      "carInfo": "トミカデビュー前の小さなお子様に配慮された、プラスチック製の丸いフォルム、にぎりやすい大きなサイズ感でできています。"
+    },
+    {
+      "carName": "はじめてトミカ 消防車",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 935円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_hajimetetomica_fireenginecar_01.jpg",
+      "carInfo": "トミカデビュー前の小さなお子様に配慮された、プラスチック製の丸いフォルム、にぎりやすい大きなサイズ感でできています。"
+    },
+    {
+      "carName": "はじめてトミカ 日産 NISSAN GT-R",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 935円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_hajimetetomica_gtr_01.jpg",
+      "carInfo": "トミカデビュー前の小さなお子様に配慮された、プラスチック製の丸いフォルム、にぎりやすい大きなサイズ感でできています。"
+    },
+    {
+      "carName": "ドリームトミカ No.160 初音ミク",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_dt_160_hatsuemiku_01.jpg",
+      "carInfo": "ドリームトミカに「初音ミク」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ No.165 ドラえもん",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_dt_165_doraemon_01.jpg",
+      "carInfo": "ドリームトミカに「ドラえもん」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ ライドオン ディズニー RD-04 ドナルドダック&スチームボート",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_dtro_rd04_ddsb_01.jpg",
+      "carInfo": "キャラクターフィギュアとトミカがセットになった『ドリームトミカ ライドオン』シリーズからドナルドダックが登場！"
+    },
+    {
+      "carName": "ドリームトミカ ライドオン ディズニー RD-05 ウッディ&アンディのおもちゃ箱",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_dtro_rd05_watb_01.jpg",
+      "carInfo": "キャラクターフィギュアとトミカがセットになった『ドリームトミカ ライドオン』シリーズからウッディが登場！"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ ０４　ワイルド・スピード ダッジ チャージャー",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_tpul_04_wildspeed_01.jpg",
+      "carInfo": "左右ドア開閉／サスペンション"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ ０５ 名探偵コナン ＲＸ-７（安室透）",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_tpul_05_rx7_01.jpg",
+      "carInfo": "左右ドア開閉／サスペンション"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ ０６ 西部警察 マシン ＲＳ-１",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_tpul_06_rs1_01.jpg",
+      "carInfo": "右ドア開閉／サスペンション"
+    },
+    {
+      "carName": "トミカ 日産 NISSAN GT-R コレクション 2022 日産 NISSAN GT-R NISMO Special edition ゴールドカラー仕様",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_nissan_gtr_gold_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "トミカ 日産 NISSAN GT-R コレクション 2022 日産 NISSAN GT-R NISMO Special edition ステルスグレー仕様",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_nissan_gtr_gray_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "トミカ 日産 NISSAN GT-R コレクション 2022 日産 NISSAN GT-R NISMO Special edition ドリフトカラー仕様",
+      "carPrice": "2022年2月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_nissan_gtr_drift_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "トミカショップオリジナル　スバル WRX S4 STI Sport #",
+      "carPrice": "2022年2月5日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2202/pic_so_wrxsti_01.jpg",
+      "carInfo": "※お一人様3個までとさせていただきます。"
+    },
+  ],
   // 202201
   [
     {

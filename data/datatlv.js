@@ -1,5 +1,17 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320135&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-131d ダットサン フェアレディ 2000（銀）",
+    "specInfo": "発売時期：2022年5月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320128&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-131c ダットサン フェアレディ 2000（黄）",
+    "specInfo": "発売時期：2022年5月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320104&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-12d ダイハツ CO10T（茶）フィギュア付き",
