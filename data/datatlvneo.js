@@ -24,6 +24,30 @@ var datatlvneo = [
     "specInfo": "発売時期：2022年6月\n価格：2,970円（税込）\nスケール：1/64\n自動車の発売年代：1980年代\n自動車メーカー：スズキ"
   },
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736307297&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N139l いすゞエルガ 京成バス",
+    "specInfo": "発売時期：2022年6月\n価格：12,100円（税込）\nスケール：1/64\n自動車の発売年代：2010年代\n自動車メーカー：いすゞ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320685&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N265b 日産セドリック V30ツインカム グランツーリスモSV（グレイッシュブルー）91年式",
+    "specInfo": "発売時期：2022年6月\n価格：2,970円（税込）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320463&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N265a 日産セドリック V30ツインカム グランツーリスモSV（黒）91年式",
+    "specInfo": "発売時期：2022年6月\n価格：2,970円（税込）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736318941&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N253a 日野ブルーリボン 東急バス",
+    "specInfo": "発売時期：2022年5月\n価格：12,100円（税込）\nスケール：1/64\n自動車の発売年代：2020年代\n自動車メーカー：日野自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736318392&num=1",
     "category": "トミカリミテッドヴィンテージ NEO",
     "specTitle": "LV-N ランボルギーニ カウンタック 25th アニバーサリー（赤）",

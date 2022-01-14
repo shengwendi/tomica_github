@@ -1,5 +1,29 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736318880&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV ランボルギーニ ミウラ S（黄緑）",
+    "specInfo": "発売時期：2022年7月\n価格：7,920円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320159&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-199b ホンダ S600 クローズドトップ（赤）",
+    "specInfo": "発売時期：2022年6月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：本田技研工業"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320142&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-199a ホンダ S600 オープントップ（白）",
+    "specInfo": "発売時期：2022年6月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：本田技研工業"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736321286&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "ジオコレ64 #カースナップ13a ウェディング",
+    "specInfo": "発売時期：2022年6月\n価格：5,940円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：日産自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320135&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-131d ダットサン フェアレディ 2000（銀）",
