@@ -5,6 +5,51 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202004
+  [
+    {
+      "carName": "No.11 ランボルギーニ ウラカン STO",
+      "carPrice": "2022年4月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_011_01.jpg",
+      "carInfo": "-"
+    },
+    {
+      "carName": "No.32 堺市消防局 特別高度救助工作車",
+      "carPrice": "2022年4月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_032_01.jpg",
+      "carInfo": "ブーム可動"
+    },
+    {
+      "carName": "ドリームトミカ No.167 すみっコぐらし ぺんぎん？のアイスクリーム屋さん",
+      "carPrice": "2022年4月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_dt167_01.jpg",
+      "carInfo": "すみっコぐらしのぺんぎん？がアイスクリームワゴン車をモチーフにした可愛いデザインになって登場！\n※旧No.149 と同一デザインになります。"
+    },
+    {
+      "carName": "カーズ トミカ C-21 ライトニング・マックィーン（カーズ３ スタンダードタイプ）",
+      "carPrice": "2022年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_cars021_01.jpg",
+      "carInfo": "カーズ トミカに、『カーズ／クロスロード』に登場する仕様の「ライトニング・マックィーン」が新しい表情で登場！"
+    },
+    {
+      "carName": "カーズ トミカ C-28 ミス・フリッター（スタンダードタイプ）",
+      "carPrice": "2022年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_cars028_01.jpg",
+      "carInfo": "カーズ トミカに、『カーズ／クロスロード』に登場する「ミス・フリッター」が新しい表情で登場！"
+    },
+    {
+      "carName": "30 スバル インプレッサ WRX タイプR STi バージョン",
+      "carPrice": "2022年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_tp30_01.jpg",
+      "carInfo": "1/61\nサスペンション"
+    },
+    {
+      "carName": "36 ホンダ NSX-R",
+      "carPrice": "2022年4月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_tp36_01.jpg",
+      "carInfo": "1/60\nサスペンション"
+    }
+  ],
   // 202003
   [
     {
@@ -97,6 +142,12 @@ var datatomica = [
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2203/pic_so_tmall_01.jpg",
       "carInfo": "サスペンション／左右ドア開閉\n1/62"
     },
+    {
+      "carName": "セブン＆アイオリジナル トミカ カラフルコレクション２０２２",
+      "carPrice": "2022年3月5日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2203/pic_so_7i_01.jpg",
+      "carInfo": "「トミカ カラフルコレクション２０２２」がセブン＆アイオリジナル商品として登場！"
+    }
   ],
   // 202002
   [

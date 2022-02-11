@@ -1,9 +1,21 @@
 var datatlv = [
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736321309&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-188c トヨタ スタウト レッカー車（トヨタサービス）",
+    "specInfo": "発売時期：2022年8月\n価格：3,960円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736318880&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV ランボルギーニ ミウラ S（黄緑）",
     "specInfo": "発売時期：2022年7月\n価格：7,920円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：輸入車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736321293&num=1",
+    "category": "トミカリミテッドヴィンテージ",
+    "specTitle": "LV-189c トヨタ スタウト（緑）フィギュア付",
+    "specInfo": "発売時期：2022年7月\n価格：4,400円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：トヨタ自動車"
   },
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320159&num=1",
