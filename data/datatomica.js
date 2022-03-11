@@ -48,6 +48,12 @@ var datatomica = [
       "carPrice": "2022年4月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_tp36_01.jpg",
       "carInfo": "1/60\nサスペンション"
+    },
+    {
+      "carName": "トイザらス オリジナル マツダ ロードスター 30周年記念車デザインカラー仕様",
+      "carPrice": "2022年4月16日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2204/pic_so_toysrus_01.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、マツダ ロードスター 30周年記念車デザインカラー仕様が登場！"
     }
   ],
   // 202003
