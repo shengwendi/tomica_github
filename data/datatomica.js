@@ -5,6 +5,81 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202005
+  [
+    {
+      "carName": "No.24 スズキ ソリオ",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_024_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.31 トヨタ カムリ スポーツ 覆面パトロールカー",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_031_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "ドリームトミカ No.166 夏目友人帳 ニャンコ先生",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_dt166_01.jpg",
+      "carInfo": "ドリームトミカに「夏目友人帳 ニャンコ先生」が登場！\nサスペンション"
+    },
+    {
+      "carName": "ドリームトミカ SP 夏目友人帳 黒ニャンコ",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_dtspkuro_01.jpg",
+      "carInfo": "ドリームトミカに「夏目友人帳 黒ニャンコ」が登場！\nサスペンション"
+    },
+    {
+      "carName": "ドリームトミカ SP 呪術廻戦 コレクション 虎杖悠仁",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_dt_jk_itadori_01.jpg",
+      "carInfo": "ドリームトミカに「呪術廻戦 虎杖悠仁」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP 呪術廻戦 コレクション 伏黒恵",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_dt_jk_fushiguro_01.jpg",
+      "carInfo": "ドリームトミカに「呪術廻戦 伏黒恵」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP 呪術廻戦 コレクション 釘崎野薔薇",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_dt_jk_kugisaki_01.jpg",
+      "carInfo": "ドリームトミカに「呪術廻戦 釘崎野薔薇」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP 呪術廻戦 コレクション 五条悟",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_dt_jk_gojo_01.jpg",
+      "carInfo": "ドリームトミカに「呪術廻戦 五条悟」が登場！"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ １：４３ フェラーリ Ｆ８ トリブート",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_bbrago_f8tributo_01.jpg",
+      "carInfo": "tomica PRESENTS Bburago"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ レース＆プレイシリーズ ３インチ フェラーリ ＳＦ９０ ストラダーレ",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_bbrago_sf90Stradale_01.jpg",
+      "carInfo": "tomica PRESENTS Bburago"
+    },
+    {
+      "carName": "トミカプレゼンツ ブラーゴ ３インチ フォルクスワーゲン バン 'サンバ'",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_bbrago_vwsamba_01.jpg",
+      "carInfo": "tomica PRESENTS Bburago"
+    },
+    {
+      "carName": "タカラトミーモールオリジナルトミカプレミアム マツダ サバンナ ＲＸ－７",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_so_tmall_rx7_01.jpg",
+      "carInfo": "左右ドア開閉／リトラクタブルライト展開・収納"
+    },
+  ],
   // 202004
   [
     {
