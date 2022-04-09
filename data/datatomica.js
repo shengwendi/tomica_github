@@ -5,7 +5,58 @@
   "carInfo": ""
 }*/
 var datatomica = [
-  // 202005
+  // 202206
+  [
+    {
+      "carName": "No.48 いすゞ エルフ 〈ミッキー＆フレンズ〉 トラック",
+      "carPrice": "2022年6月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_048_01.jpg",
+      "carInfo": "サスペンション/パネル開閉"
+    },
+    {
+      "carName": "No.91 シボレー コルベット",
+      "carPrice": "2022年6月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_091_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.123 ガリガリ君フルトレーラー",
+      "carPrice": "2022年6月発売予定 メーカー希望小売価格 990円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_123_01.jpg",
+      "carInfo": "トレーラー左右可動/連結切り離し"
+    }, 
+    {
+      "carName": "街を守るぞ！消防車両セット",
+      "carPrice": "2022年6月発売予定 メーカー希望小売価格 2,200円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_tgs_shoboset_01.jpg",
+      "carInfo": "スポーツカーなどの人気車種が消防車両になって４台セットで登場！\n・スバル ＢＲＺ（消防本部指令車）:サスペンション\n・スズキ ジムニー（消防本部広報車）：サスペンション\n・トヨタ ハイラックス（消防本部資機材運送車）：サスペンション\n・トヨタ コースター（救急人員輸送車）"
+    },
+    {
+      "carName": "２５ トヨタ スープラ",
+      "carPrice": "2022年6月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_tp_025_01.jpg",
+      "carInfo": "1/62\n左右ドア開閉/リトラクタブルライト展開・収納"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ ０７　バック・トゥ・ザ・フューチャー デロリアン（タイムマシン）",
+      "carPrice": "2022年6月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_tpu_07_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ ０８ ワイルド・スピード ＢＮＲ３４ ＳＫＹＬＩＮＥ ＧＴ - Ｒ",
+      "carPrice": "2022年6月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_tpu_08_01.jpg",
+      "carInfo": "左右ドア開閉/サスペンション"
+    },
+    {
+      "carName": "トミカショップオリジナル ミニ ジョン・クーパー・ワークス",
+      "carPrice": "2022年6月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_so_ts_mini_01.jpg",
+      "carInfo": "サスペンション"
+    }
+  ],
+  // 202205
   [
     {
       "carName": "No.24 スズキ ソリオ",
@@ -80,7 +131,7 @@ var datatomica = [
       "carInfo": "左右ドア開閉／リトラクタブルライト展開・収納"
     },
   ],
-  // 202004
+  // 202204
   [
     {
       "carName": "No.11 ランボルギーニ ウラカン STO",
