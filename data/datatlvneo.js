@@ -6,6 +6,24 @@ var datatlvneo = [
     "specInfo": "発売時期：2022年9月\n価格：7,920円（税込）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：輸入車"
   },
   {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736322832&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N219d トヨタ クラウンセダン タクシー（日本交通）",
+    "specInfo": "発売時期：2022年9月\n価格：3,300円（税込）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736321354&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N243c 日野レンジャー KL545 パネルバン（青）",
+    "specInfo": "発売時期：2022年9月\n価格：7,150円（税込）\nスケール：1/64\n自動車の発売年代：1970年代\n自動車メーカー：日野自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736322825&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "ジオコレ64 #カースナップ04b タクシー乗り場（トヨタ クラウンコンフォート付属）",
+    "specInfo": "発売時期：2022年9月\n価格：5,940円（税込）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736321323&num=1",
     "category": "トミカリミテッドヴィンテージ NEO",
     "specTitle": "LV-N フェラーリ テスタロッサ（黄）",
@@ -40,6 +58,24 @@ var datatlvneo = [
     "category": "トミカリミテッドヴィンテージ NEO",
     "specTitle": "LV-N249d スバル サンバー ディアス クラシック 94年式（紺／白）",
     "specInfo": "発売時期：2022年8月\n価格：3,080円（税込）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：SUBARU"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736315209&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N234b カルソニック スカイライン GT-R（93年仕様）",
+    "specInfo": "発売時期：2022年8月\n価格：6,380円（税込）\nスケール：1/64\n自動車の発売年代：1990年代\n自動車メーカー：日産自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320494&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N268b トヨタ ランドクルーザー60 北米仕様（ベージュM）88年式",
+    "specInfo": "発売時期：2022年8月\n価格：3,630円（税込）\nスケール：1/64\n自動車の発売年代：1980年代\n自動車メーカー：トヨタ自動車"
+  },
+  {
+    "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320487&num=1",
+    "category": "トミカリミテッドヴィンテージ NEO",
+    "specTitle": "LV-N268a トヨタ ランドクルーザー60 北米仕様（水色／グレー）88年式",
+    "specInfo": "発売時期：2022年8月\n価格：3,630円（税込）\nスケール：1/64\n自動車の発売年代：1980年代\n自動車メーカー：トヨタ自動車"
   },
   {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736320043&num=1",
