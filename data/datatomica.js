@@ -96,6 +96,12 @@ var datatomica = [
       "carPrice": "2022年6月発売予定 メーカー希望小売価格 770円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_so_ts_mini_01.jpg",
       "carInfo": "サスペンション"
+    },
+    {
+      "carName": "スヌーピータウンショップオリジナルドリームトミカ スクールバス ウッドストック",
+      "carPrice": "2022年6月18日(土)発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_so_snoopy_01.jpg",
+      "carInfo": "スヌーピータウンショップオリジナル商品として、ドリームトミカ スクールバス ウッドストックが登場！"
     }
   ],
   // 202205
@@ -172,6 +178,18 @@ var datatomica = [
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_so_tmall_rx7_01.jpg",
       "carInfo": "左右ドア開閉／リトラクタブルライト展開・収納"
     },
+    {
+      "carName": "トミカで巡る！日本の伝統コレクション Vol.4 スバル 360 花火デザイン仕様",
+      "carPrice": "2022年5月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_so_tohan_01.jpg",
+      "carInfo": "日本の様々な伝統をモチーフにしたトミカが登場です。\n第4弾は「スバル 360 × 花火デザイン仕様」となります。\nボンネット開閉／サスペンション"
+    },
+    {
+      "carName": "AEON NO.62 スバル レガシィ B4 イタリア警察仕様",
+      "carPrice": "2022年5月28日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2205/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.62 スバル レガシィ B4 イタリア警察仕様が登場！\n"
+    }
   ],
   // 202204
   [
