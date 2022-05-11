@@ -98,6 +98,12 @@ var datatomica = [
       "carInfo": "サスペンション"
     },
     {
+      "carName": "アピタ ピアゴオリジナル トヨタ 2000GT ワイルドスタイル Vol.1",
+      "carPrice": "2022年6月25日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_so_apita_01.jpg",
+      "carInfo": "アピタ ピアゴオリジナル商品として、トヨタ 2000GT ワイルドスタイル Vol.1が登場！"
+    },
+    {
       "carName": "スヌーピータウンショップオリジナルドリームトミカ スクールバス ウッドストック",
       "carPrice": "2022年6月18日(土)発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2206/pic_so_snoopy_01.jpg",
