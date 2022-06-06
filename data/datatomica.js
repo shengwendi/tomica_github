@@ -5,6 +5,120 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202208
+  [
+    {
+      "carName": "No.30 ダイハツ ハイゼット",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 550円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_030_01.jpg",
+      "carInfo": "サスペンション/後部ドア開閉"
+    },
+    {
+      "carName": "No.107 スバル サンバー ひまわり",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 550円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_107_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "トーマストミカ ベーシックセット",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 3,080円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_thomas_basicset_01.jpg",
+      "carInfo": "トミカデビューにおすすめ！トーマストミカ4台が入ったギフトセットが登場！"
+    },
+    {
+      "carName": "トミカで行こう！オートキャンプセット",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 2,200円(税込)",
+      "carImg": "８月ギフトセット新商品が登場！",
+      "carInfo": "トヨタ RAV4\nトヨタ ハイエース\nホンダ スーパーカブ\n付属小物\n・テント\n・ルーフキャリアバック（ハイエースルーフ搭載積み下ろし可能）"
+    },
+    {
+      "carName": "はじめてトミカ ホイールローダー",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 935円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_hajimete_wl_01.jpg",
+      "carInfo": "トミカデビュー前の小さなお子様に配慮された、プラスチック製の丸いフォルム、にぎりやすい大きなサイズ感でできています。"
+    },
+    {
+      "carName": "はじめてトミカ 清掃車",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 935円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_hajimete_cc_01.jpg",
+      "carInfo": "トミカデビュー前の小さなお子様に配慮された、プラスチック製の丸いフォルム、にぎりやすい大きなサイズ感でできています。"
+    },
+    {
+      "carName": "はじめてトミカ 救急車",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 935円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_hajimete_amb_01.jpg",
+      "carInfo": "トミカデビュー前の小さなお子様に配慮された、プラスチック製の丸いフォルム、にぎりやすい大きなサイズ感でできています。"
+    },
+    {
+      "carName": "ドリームトミカ SP すみっコぐらし10周年コレクション しろくま",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_dtsp_sumikko_shirokuma_01.jpg",
+      "carInfo": "ドリームトミカに「すみっコぐらし10周年コレクション しろくま」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP すみっコぐらし10周年コレクション ねこ",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_dtsp_sumikko_neko_01.jpg",
+      "carInfo": "ドリームトミカに「すみっコぐらし10周年コレクション ねこ」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP すみっコぐらし10周年コレクション とんかつ",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_dtsp_sumikko_tonkatsu_01.jpg",
+      "carInfo": "ドリームトミカに「すみっコぐらし10周年コレクション とんかつ」が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP すみっコぐらし10周年コレクション ぺんぎん？",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_dtsp_sumikko_pen_01.jpg",
+      "carInfo": "ドリームトミカに「すみっコぐらし10周年コレクション ぺんぎん」が登場！"
+    },
+    {
+      "carName": "プレミアム 35 ホンダ シティ ターボⅡ",
+      "carPrice": "2022年8月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_tp_35city_01.jpg",
+      "carInfo": "1/55\nサスペンション"
+    }
+  ],
+  // 202207
+  [
+    {
+      "carName": "No.33 カロ・ビー",
+      "carPrice": "2022年7月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_033_01.jpg",
+      "carInfo": "サスペンション/ルーフ開閉"
+    },
+    {
+      "carName": "No.76 スバル WRX S4 STI Sport R EX",
+      "carPrice": "2022年7月発売予定 メーカー希望小売価格 495円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_076_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "ドリームトミカ No.168 星のカービィ",
+      "carPrice": "2022年7月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_dt_168_01.jpg",
+      "carInfo": "ドリームトミカに「星のカービィ」が登場！"
+    },
+    {
+      "carName": "カーズ トミカ C-05 ジャクソン・ストーム（スタンダードタイプ）",
+      "carPrice": "2022年7月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_cars_c05_01.jpg",
+      "carInfo": "『カーズ クロスロード』に登場するライバルキャラクター「ジャクソン・ストーム」の表情が新しくなってカーズトミカに登場！"
+    },
+    {
+      "carName": "カーズ トミカ C-06 クルーズ・ラミレス（DINOCOレーシングタイプ）",
+      "carPrice": "2022年7月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_cars_c06_01.jpg",
+      "carInfo": "カーズ クロスロード』に登場する「クルーズ・ラミレス（DINOCOレーシングタイプ）」の表情が新しくなってカーズトミカに登場！"
+    },
+    {
+      "carName": "13 三菱 ランサーエボリューションⅥ GSR",
+      "carPrice": "2022年7月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_tp_013_01.jpg",
+      "carInfo": "1/61\nサスペンション"
+    }
+  ],
   // 202206
   [
     {
