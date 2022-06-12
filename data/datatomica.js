@@ -78,6 +78,12 @@ var datatomica = [
       "carPrice": "2022年8月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_tp_35city_01.jpg",
       "carInfo": "1/55\nサスペンション"
+    },
+    {
+      "carName": "トミカショップオリジナル トミカタウン消防無線中継車",
+      "carPrice": "2022年8月6日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2208/pic_so_ts_tt_smc_01.jpg",
+      "carInfo": "サスペンション／ルーフアンテナ可動"
     }
   ],
   // 202207
