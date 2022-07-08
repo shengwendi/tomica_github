@@ -5,6 +5,87 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202209
+  [
+    {
+      "carName": "No.22 ボルボ C40 リチャージ",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 550円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_022_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.74 ランボルギーニ カウンタック LPI 800-4",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 550円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_074_01.jpg",
+      "carInfo": "-"
+    },
+    {
+      "carName": "No.127 三菱ふそう スーパーグレート コンクリートポンプ車",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 1,045円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_127_01.jpg",
+      "carInfo": "ブーム可動/アウトリガ張り出し/ホッパーカバー開閉"
+    },
+    {
+      "carName": "トミカ ジョブレイバー ポリスブレイバーゼロ パーフェクトセット",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 4,950円（税込）",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_jr_zeroset_01.jpg",
+      "carInfo": "アーマートミカ「日産 NISSAN GT-R 覆面パトロールカー」が機捜ジョブロイドと合体し、黒いジョブレイバー「ポリスブレイバーゼロ 日産 NISSAN GT-R 覆面パトロールカー」になるぞ！"
+    },
+    {
+      "carName": "トミカ ジョブレイバー 警察消防救急 DXセット",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 8,580円（税込）",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_jr_policeamb_01.jpg",
+      "carInfo": "アーマートミカ「日産 NISSAN GT-R パトロールカー」が警察ジョブロイドと合体し、警察のロボット「ポリスブレイバー 日産 NISSAN GT-R パトロールカー」になるぞ！"
+    },
+    {
+      "carName": "トミカ ジョブレイバー  JB04 ファイヤブレイバー 川崎重工 BK117 D-3 消防ヘリ",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 2,640円（税込）",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_jr_jb04_00.jpg",
+      "carInfo": "アーマートミカ「川崎重工 BK117 D-3 消防ヘリ」が消防ジョブロイドと合体し、消防のロボット「ファイヤブレイバー 川崎重工 BK117 D-3 消防ヘリ」になるぞ！"
+    },
+    {
+      "carName": "トミカ ジョブレイバー JB05 メディブレイバー 川崎重工 BK117 D-3 ドクターヘリ",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 2,640円（税込）",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_jr_jb05_00.jpg",
+      "carInfo": "アーマートミカ「川崎重工 BK117 D-3 ドクターヘリ」が救急ジョブロイドと合体し、救急隊のロボット「メディブレイバー 川崎重工 BK117 D-3 ドクターヘリ」になるぞ！"
+    },
+    {
+      "carName": "トミカ ジョブレイバー JB06 ポリスブレイバー Honda VFR 白バイ",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 2,640円（税込）",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_jr_jb06_00.jpg",
+      "carInfo": "アーマートミカ「Honda VFR 白バイ」が警察ジョブロイドと合体し、警察のロボット「ポリスブレイバー Honda VFR 白バイ」になるぞ！"
+    },
+    {
+      "carName": "カーズ トミカ ライトニング・マックィーン （ライトニング・マックィーンデイ 2022特別仕様）",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_cars_lm2022_01.jpg",
+      "carInfo": "2022年のテーマは「カーズのキャラクターが、日本をツーリング！」"
+    },
+    {
+      "carName": "カーズ トミカ メーター （ライトニング・マックィーンデイ 2022特別仕様）",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 1,100円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_cars_mt2022_01.jpg",
+      "carInfo": "2022年のテーマは「カーズのキャラクターが、日本をツーリング！」"
+    },
+    {
+      "carName": "トミカプレミアム Honda TYPE R 30th Collection",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 3,080円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_tp_30th_01.jpg",
+      "carInfo": "2022年に30周年を迎える「Honda TYPE R」を記念した、トミカプレミアム３台セットです。\nINTEGRA TYPE R:1/62\nNSX TYPE R:1/60\nCIVIC TYPE R:1/62"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 01 ワイルド・スピード 三菱 ランサーエボリューションⅦ"  ,
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_tpul_01ws_01.jpg",
+      "carInfo": "左右ドア開閉"
+    },
+    {
+      "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 09 湾岸ミッドナイト 悪魔のＺ",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 1,320円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_tpul_09wm_01.jpg",
+      "carInfo": "左右ドア開閉/サスペンション"
+    }
+  ],
   // 202208
   [
     {
@@ -123,6 +204,30 @@ var datatomica = [
       "carPrice": "2022年7月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_tp_013_01.jpg",
       "carInfo": "1/61\nサスペンション"
+    },
+    {
+      "carName": "トイザらス オリジナル ホンダ NSX レースコントロールカーデザイン仕様",
+      "carPrice": "2022年7月16日（土）発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_so_toysrus_01.jpg",
+      "carInfo": "今回のトイザらス オリジナルトミカは、ホンダ NSX レースコントロールカーデザイン仕様が登場！"
+    },
+    {
+      "carName": "TCNオリジナル TOYOTA GAZOO Racing トランスポーター仕様",
+      "carPrice": "2022年7月23日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_so_tcn_01.jpg",
+      "carInfo": "TOYOTA GAZOO Racing トランスポーター仕様がTCNオリジナルとして登場！"
+    },
+    {
+      "carName": "AEON NO.63 日産 ノート フランス警察仕様",
+      "carPrice": "2022年7月23日(土)発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_so_aeon_01.jpg",
+      "carInfo": "今月はAEON NO.63 日産 ノート フランス警察仕様が登場！"
+    },
+    {
+      "carName": "トミカで巡る！日本の伝統コレクション Vol.5 ダイハツ ミゼット 箱根寄木細工デザイン仕様",
+      "carPrice": "2022年7月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2207/pic_so_tohan_01.jpg",
+      "carInfo": "日本の様々な伝統をモチーフにしたトミカが登場です。\n第5弾は「ダイハツ ミゼット × 箱根寄木細工デザイン仕様」となります。"
     }
   ],
   // 202206
