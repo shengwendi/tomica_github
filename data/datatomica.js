@@ -84,6 +84,12 @@ var datatomica = [
       "carPrice": "2022年9月発売予定 メーカー希望小売価格 1,320円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_tpul_09wm_01.jpg",
       "carInfo": "左右ドア開閉/サスペンション"
+    },
+    {
+      "carName": "タカラトミーモールオリジナル トミカプレミアム ポルシェ 911 カレラ RS 2.7",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_so_tmall_tp_porche_01.jpg",
+      "carInfo": "サスペンション\n1/61"
     }
   ],
   // 202208
