@@ -5,6 +5,63 @@
   "carInfo": ""
 }*/
 var datatomica = [
+  // 202210
+  [
+    {
+      "carName": "No.34 トヨタ アクア",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 550円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_034_01.jpg",
+      "carInfo": "サスペンション"
+    },
+    {
+      "carName": "No.77 日立建機 マカダムローラ ZC125M-5",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 550円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_077_01.jpg",
+      "carInfo": "-"
+    },
+    {
+      "carName": "TOYOTA86/GR86 10th アニバーサリーコレクション",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 2,200円（税込）",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_86_10th_01.jpg",
+      "carInfo": "TOYOYA86/GR86 10周年を記念したトミカギフトセットです！\nトヨタ 86（前期）：左右ドア開閉/サスペンション\nトヨタ 86（後期）：左右ドア開閉/サスペンション\nトヨタ GR86 :サスペンション"
+    },
+    {
+      "carName": "ドリームトミカ SP PUI PUI モルカー 06 ゾンビシロモ",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_dt_puipuimol_zombi_01.jpg",
+      "carInfo": "ドリームトミカに「PUI PUI モルカー」の「ゾンビシロモ」が新登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP PUI PUI モルカー 07 痛車アビー",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 770円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_dt_puipuimol_abby_01.jpg",
+      "carInfo": "ドリームトミカに「PUI PUI モルカー」の「痛車アビー」が新登場！"
+    },
+    {
+      "carName": "トーマストミカ わくわくドキドキコレクション",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 各825円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_thomas_wwddcolle_02.jpg",
+      "carInfo": "トーマスとなかまたちが様々な姿になってトーマストミカで登場！"
+    },
+    {
+      "carName": "カーズ トミカ C-03 メーター（ケイブタイプ）",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 935円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_cars_c03_01.jpg",
+      "carInfo": "『カーズ・オン・ザ・ロード』に登場するメーターがカーズトミカに登場！"
+    },
+    {
+      "carName": "カーズ トミカ C-14 ライトニング・マックィーン（ケイブタイプ）",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 935円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_cars_c14_01.jpg",
+      "carInfo": "『カーズ・オン・ザ・ロード』に登場するライトニング・マックィーンがカーズトミカに登場！"
+    },
+    {
+      "carName": "14 トヨタ セリカＸＸ",
+      "carPrice": "2022年10月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2210/pic_tp_14_celica_01.jpg",
+      "carInfo": "トヨタ セリカＸＸ がトミカプレミアムになって登場！"
+    }
+  ],
   // 202209
   [
     {
@@ -90,6 +147,24 @@ var datatomica = [
       "carPrice": "2022年9月発売予定 メーカー希望小売価格 880円(税込)",
       "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_so_tmall_tp_porche_01.jpg",
       "carInfo": "サスペンション\n1/61"
+    },
+    {
+      "carName": "アピタ ピアゴオリジナル トヨタ 2000GT ワイルドスタイル Vol.2",
+      "carPrice": "2022年9月24日（土）発売予定 メーカー希望小売価格 825円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_so_apita_01.jpg",
+      "carInfo": "アピタ ピアゴオリジナル商品として、トヨタ 2000GT ワイルドスタイル Vol.2が登場！\nサスペンション／左右ドア開閉"
+    },
+    {
+      "carName": "イトーヨーカドーオリジナル SUBARU BRZ トリコロールカラー仕様",
+      "carPrice": "2022年9月24日（土）発売予定 メーカー希望小売価格 825円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_so_itoyokado_01.jpg",
+      "carInfo": "イトーヨーカドーオリジナル商品として、SUBARU BRZ トリコロールカラー仕様が登場！"
+    },
+    {
+      "carName": "ドリームトミカ SP シナモロール20周年アニバーサリー",
+      "carPrice": "2022年9月発売予定 メーカー希望小売価格 880円(税込)",
+      "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2209/pic_dt_sinamoroll_01.jpg",
+      "carInfo": "ドリームトミカから「シナモロール 20周年アニバーサリー」が登場！"
     }
   ],
   // 202208
