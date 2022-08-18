@@ -2,6 +2,22 @@
 //获取应用实例
 const app = getApp()
 var datatlvneo = require('../../data/datatlvneo.js');
+
+// wx.request({
+//   url: 'https://gitee.com/shengwendi/tomica/raw/master/data/datatlvneo.js',
+//   method: 'GET',
+//   data: {
+    
+//   },
+//   header: {
+//     'content-type': 'application/json' // 默认值
+//   },
+//   dataType: 'json',
+//   success (res) {
+//     console.log('tlvneo',res)
+//   }
+// })
+
 let interstitialAd = null
 Page({
   data: {

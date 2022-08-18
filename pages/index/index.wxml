@@ -1,9 +1,9 @@
 <!--index.wxml-->
 <view class='tomica'>
   <!-- select start -->
-  <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+  <picker bindchange="bindPickerChange" value="{{index}}" range="{{tomicaMouth}}">
     <view class="picker">
-      {{array[index]}}
+      {{tomicaMouth[index]}}
     </view>
   </picker>
   <!-- select end -->
