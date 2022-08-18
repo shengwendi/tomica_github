@@ -3,20 +3,21 @@
 const app = getApp()
 var datatlvneo = require('../../data/datatlvneo.js');
 
-// wx.request({
-//   url: 'https://gitee.com/shengwendi/tomica/raw/master/data/datatlvneo.js',
-//   method: 'GET',
-//   data: {
+wx.request({
+  url: 'https://raw.githubusercontent.com/shengwendi/tomica/master/data/datatlvneo.js?token=GHSAT0AAAAAABXY3BPI6E2VXIK32X6VX2F2YX6EYKQ',
+  method: 'GET',
+  data: {
     
-//   },
-//   header: {
-//     'content-type': 'application/json' // 默认值
-//   },
-//   dataType: 'json',
-//   success (res) {
-//     console.log('tlvneo',res)
-//   }
-// })
+  },
+  header: {
+    'content-type': 'application/json' // 默认值
+  },
+  dataType: 'json',
+  responseType: 'text',
+  success (res) {
+    console.log('tlvneo',res)
+  }
+})
 
 let interstitialAd = null
 Page({
