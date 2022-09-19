@@ -1,5 +1,49 @@
 {
   "datatomica": [
+    [
+      {
+        "carName": "No.13 日産 フェアレディZ NISMO GT500",
+        "carPrice": "2022年11月発売予定 メーカー希望小売価格 550円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_013_01.jpg",
+        "carInfo": "サスペンション"
+      },
+      {
+        "carName": "No.36 BMW i4",
+        "carPrice": "2022年11月発売予定 メーカー希望小売価格 550円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_036_01.jpg",
+        "carInfo": "サスペンション"
+      },
+      {
+        "carName": "トミカタウン 出動！ 消火！ レスキューベース",
+        "carPrice": "2022年11月発売予定 メーカー希望小売価格 5,500円（税込）",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_tt_resquebase_01.jpg",
+        "carInfo": "火災発生！レスキューベースの司令塔から消防士を出動させて、はしご消防車に乗り込もう！火災現場に到着！消火活動開始だ！消防士、子どもの2体の人形とはしご消防車付き。"
+      },
+      {
+        "carName": "トミカ ジョブレイバー JB08 キャリーブレイバー ヤマト運輸 集配トラック",
+        "carPrice": "2022年11月発売予定 メーカー希望小売価格 2,970円（税込）",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_jr_kuronekoyamato_01.jpg",
+        "carInfo": "アーマートミカ「ヤマト運輸 集配トラック」が宅急便ジョブロイドと合体し、ヤマト運輸のロボット「キャリーブレイバー ヤマト運輸 集配トラック」になるぞ！"
+      },
+      {
+        "carName": "ドリームトミカ ジブリがいっぱい 01 となりのトトロ ネコバス",
+        "carPrice": "2022年11月発売予定 メーカー希望小売価格 1,320円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_dt_ghibli_nekobus_01.jpg",
+        "carInfo": "ドリームトミカ ジブリがいっぱい　に「となりのトトロ ネコバス」が登場！"
+      },
+      {
+        "carName": "ドリームトミカ ジブリがいっぱい 02 紅の豚 サボイアS.21F",
+        "carPrice": "2022年11月発売予定 メーカー希望小売価格 1,320円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_dt_ghibli_s21f_01.jpg",
+        "carInfo": "ドリームトミカ ジブリがいっぱい　に「紅の豚 サボイアS.21F」が登場！\nポルコの乗るサボイアS.21Fをトミカで表現。"
+      },
+      {
+        "carName": "ドリームトミカ ジブリがいっぱい 03 千と千尋の神隠し 海原電鉄",
+        "carPrice": "2022年11月発売予定 メーカー希望小売価格 1,320円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_dt_ghibli_sentochihiro_01.jpg",
+        "carInfo": "ドリームトミカ ジブリがいっぱい　に「千と千尋の神隠し 海原電鉄」が登場！"
+      }
+    ],
   [
     {
       "carName": "No.34 トヨタ アクア",
