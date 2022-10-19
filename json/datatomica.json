@@ -2,6 +2,170 @@
   "datatomica": [
     [
       {
+        "carName": "No.40 消防活動二輪車 クイックアタッカー",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 550円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_040_01.jpg",
+        "carInfo": "ライダー／スタンド付き"
+      },
+      {
+        "carName": "No.78 ホンダ シビック TYPE R",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 550円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_078_01.jpg",
+        "carInfo": "サスペンション"
+      },
+      {
+        "carName": "No.121 市原市消防局 スクラムフォース",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 1,045円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_121_01.jpg",
+        "carInfo": "コンテナ積み下ろし／ロボット積載"
+      },
+      {
+        "carName": "ドリームトミカ No.169 クレヨンしんちゃん",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 770円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_dt_160_ks_01.jpg",
+        "carInfo": "ドリームトミカに「クレヨンしんちゃん」が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP TinyTAN コレクション RM",
+        "carPrice": "2022年12月29日発売予定 メーカー希望小売価格 880円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_dt_tinytan_rm_01.jpg",
+        "carInfo": "ドリームトミカに「TinyTAN コレクション　RM」が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP TinyTAN コレクション Jin",
+        "carPrice": "2022年12月29日発売予定 メーカー希望小売価格 880円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_dt_tinytan_jin_01.jpg",
+        "carInfo": "ドリームトミカに「TinyTAN コレクション　RM」が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP TinyTAN コレクション SUGA",
+        "carPrice": "2022年12月29日発売予定 メーカー希望小売価格 880円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_dt_tinytan_suga_01.jpg",
+        "carInfo": "ドリームトミカに「TinyTAN コレクション　RM」が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP TinyTAN コレクション j-hope",
+        "carPrice": "2022年12月29日発売予定 メーカー希望小売価格 880円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_dt_tinytan_jhope_01.jpg",
+        "carInfo": "ドリームトミカに「TinyTAN コレクション　RM」が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP TinyTAN コレクション Jimin",
+        "carPrice": "2022年12月29日発売予定 メーカー希望小売価格 880円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_dt_tinytan_jimin_01.jpg",
+        "carInfo": "ドリームトミカに「TinyTAN コレクション　RM」が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP TinyTAN コレクション V",
+        "carPrice": "2022年12月29日発売予定 メーカー希望小売価格 880円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_dt_tinytan_v_01.jpg",
+        "carInfo": "ドリームトミカに「TinyTAN コレクション　RM」が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP TinyTAN コレクション Jung Kook",
+        "carPrice": "2022年12月29日発売予定 メーカー希望小売価格 880円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_dt_tinytan_jungkook_01.jpg",
+        "carInfo": "ドリームトミカに「TinyTAN コレクション　RM」が登場！"
+      },
+      {
+        "carName": "トーマストミカ TH-01 トーマス",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_thomas_th01_01.jpg",
+        "carInfo": "きかんしゃトーマスのアニメシリーズがフルリニューアル！"
+      },
+      {
+        "carName": "トーマストミカ TH-02 パーシー",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_thomas_th02_01.jpg",
+        "carInfo": "きかんしゃトーマスのアニメシリーズがフルリニューアル！"
+      },
+      {
+        "carName": "トーマストミカ TH-03 ニア",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_thomas_th03_01.jpg",
+        "carInfo": "きかんしゃトーマスのアニメシリーズがフルリニューアル！"
+      },
+      {
+        "carName": "カーズ トミカ C-34 ライトニング・マックィーン（ロードトリップタイプ）",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 935円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_cars_c34_01.jpg",
+        "carInfo": "『カーズ・オン・ザ・ロード』に登場するライトニング・マックィーンがカーズトミカに登場！"
+      },
+      {
+        "carName": "カーズ トミカ C-35 クルーズ・ラミレス（ラスティーズDINOCOタイプ）",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 935円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_cars_c35_01.jpg",
+        "carInfo": "『カーズ・オン・ザ・ロード』に登場するクルーズ・ラミレスがカーズトミカに登場！"
+      },
+      {
+        "carName": "07 ランボルギーニ エッセンサ SCV12（Lamborghini Essenza SCV12）",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 1,045円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_tp_07_01.jpg",
+        "carInfo": "ランボルギーニ エッセンサ SCV12（Lamborghini Essenza SCV12）がトミカプレミアムになって登場！"
+      },
+      {
+        "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 10 西部警察 サファリ 4WD",
+        "carPrice": "2022年12月発売予定 メーカー希望小売価格 1320円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_tpu_10safari_01.jpg",
+        "carInfo": "トミカプレミアムｕｎｌｉｍｉｔｅｄに 西部警察 サファリ 4WD が登場！"
+      },
+      {
+        "carName": "福徳トミカ",
+        "carPrice": "2022年12月29日発売予定 メーカー希望小売価格 各770円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_fukutoku_01.jpg",
+        "carInfo": "新年を祝う! 『縁起の良い幸運をもたらす動物シリーズ』のトミカくじが登場!"
+      },
+      {
+        "carName": "トミカショップオリジナル トミカタウンタクシー",
+        "carPrice": "2022年12月3日（土）発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_so_tomicashop_01.jpg",
+        "carInfo": "サスペンション"
+      },
+      {
+        "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 機動戦士ガンダム ホワイトベース",
+        "carPrice": "2023年3月中旬発売予定 メーカー希望小売価格 1,430円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_gundam_tpul_whitebase_01.jpg",
+        "carInfo": "トミカプレミアムｕｎｌｉｍｉｔｅｄに　機動戦士ガンダム　ホワイトベース　が登場！"
+      },
+      {
+        "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 機動戦士ガンダム コア・ファイター",
+        "carPrice": "2023年3月中旬発売予定 メーカー希望小売価格 1,430円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_gundam_tpul_corefighter_01.jpg",
+        "carInfo": "トミカプレミアムｕｎｌｉｍｉｔｅｄに　機動戦士ガンダム　コア・ファイター　が登場！"
+      },
+      {
+        "carName": "トミカプレミアムｕｎｌｉｍｉｔｅｄ 機動戦士ガンダム Gファイター",
+        "carPrice": "2023年3月中旬発売予定 メーカー希望小売価格 1,430円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_gundam_tpul_gfighter_01.jpg",
+        "carInfo": "トミカプレミアムｕｎｌｉｍｉｔｅｄに　機動戦士ガンダム　Ｇファイター　が登場！"
+      },
+      {
+        "carName": "ドリームトミカ ライドオン 機動戦士ガンダム バギー",
+        "carPrice": "2023年3月中旬発売予定 メーカー希望小売価格 1,430円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_gundam_dtro_buggy_01.jpg",
+        "carInfo": "ドリームトミカ ライドオンに　機動戦士ガンダム　バギー　が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP 機動戦士ガンダム モデル ガンダム（RX-78-2）",
+        "carPrice": "2023年3月中旬発売予定 メーカー希望小売価格 1,210円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_gundam_dtsp_gundam_01.jpg",
+        "carInfo": "ドリームトミカに　機動戦士ガンダム　ガンダム（RX-78-2）　が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP 機動戦士ガンダム モデル シャア専用ザク",
+        "carPrice": "2023年3月中旬発売予定 メーカー希望小売価格 1,210円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_gundam_dtsp_charzaku_01.jpg",
+        "carInfo": "ドリームトミカに　機動戦士ガンダム　シャア専用ザク　が登場！"
+      },
+      {
+        "carName": "ドリームトミカ SP 機動戦士ガンダム モデル 量産型ザク",
+        "carPrice": "2023年3月中旬発売予定 メーカー希望小売価格 1,210円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_gundam_dtsp_zaku_01.jpg",
+        "carInfo": "ドリームトミカに　機動戦士ガンダム　量産型ザク　が登場！"
+      }
+    ],
+    [
+      {
         "carName": "No.13 日産 フェアレディZ NISMO GT500",
         "carPrice": "2022年11月発売予定 メーカー希望小売価格 550円(税込)",
         "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_013_01.jpg",
@@ -42,6 +206,36 @@
         "carPrice": "2022年11月発売予定 メーカー希望小売価格 1,320円(税込)",
         "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_dt_ghibli_sentochihiro_01.jpg",
         "carInfo": "ドリームトミカ ジブリがいっぱい　に「千と千尋の神隠し 海原電鉄」が登場！"
+      },
+      {
+        "carName": "ヤマダデンキ オリジナル SUBARU WRX S4 STI Sport #",
+        "carPrice": "2022年11月19日（土）発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_so_yamadadenki_01.jpg",
+        "carInfo": "ヤマダデンキ オリジナルトミカの「SUBARU WRX S4 STI Sport #」が登場！"
+      },
+      {
+        "carName": "エディオン オリジナル ホンダ シビック TYPE R",
+        "carPrice": "2022年11月19日（土）発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_so_edion_01.jpg",
+        "carInfo": "エディオン オリジナルトミカの「ホンダ シビック TYPE R」が登場！"
+      },
+      {
+        "carName": "トイザらス オリジナル トヨタ C-HR Mode-Nero Safety Plus Ⅱ デザイン仕様",
+        "carPrice": "2022年11月19日（土）発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_so_toysrus_01.jpg",
+        "carInfo": "今回のトイザらス オリジナルトミカは、 トヨタ C-HR Mode-Nero Safety Plus Ⅱ デザイン仕様が登場！\nサスペンション／後部ドア開閉"
+      },
+      {
+        "carName": "ジョーシン オリジナル トヨタ GR ヤリス",
+        "carPrice": "2022年11月26日（土）発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_so_joshin_01.jpg",
+        "carInfo": "ジョーシン オリジナルトミカの「トヨタ GR ヤリス」が登場！\nサスペンション"
+      },
+      {
+        "carName": "TCNオリジナル トムストラック",
+        "carPrice": "2022年11月26日(土)発売予定 メーカー希望小売価格 825円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2211/pic_so_tcn_01.jpg",
+        "carInfo": "トムストラックがTCNオリジナルとして登場！"
       }
     ],
   [
