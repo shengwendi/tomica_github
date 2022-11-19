@@ -2,6 +2,32 @@
   "datatomica": [
     [
       {
+        "carName": "No.39 ホンダ ステップワゴン",
+        "carPrice": "2023年1月発売予定 メーカー希望小売価格 550円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2301/pic_039_01.jpg",
+        "carInfo": "サスペンション"
+      },
+      {
+        "carName": "No.81 スズキ ワゴンＲスマイル",
+        "carPrice": "2023年1月発売予定 メーカー希望小売価格 550円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2301/pic_081_01.jpg",
+        "carInfo": "サスペンション"
+      },
+      {
+        "carName": "トミカ ジョブレイバー JB11 ポリスブレイバーエターナル 日産 NISSAN GT-R 覆面パトロールカー",
+        "carPrice": "2023年1月発売予定 メーカー希望小売価格 2,970円（税込）",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2301/pic_jr_jb11nissan_01.jpg",
+        "carInfo": "シルバーカラーのアーマートミカ「NISSAN GT-R 覆面パトロールカー」が警察ジョブロイドと合体し、覆面パトロールカーのロボット「ポリスブレイバーエターナル 日産 NISSAN GT-R 覆面パトロールカー」になるぞ! 別売りのジョブレイバーたちと一緒に街を守ろう!"
+      },
+      {
+        "carName": "32 ホンダ NSX Type S",
+        "carPrice": "2023年1月発売予定 メーカー希望小売価格 935円(税込)",
+        "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2301/pic_tp32_hondansx_01.jpg",
+        "carInfo": "1/62"
+      }
+    ],
+    [
+      {
         "carName": "No.40 消防活動二輪車 クイックアタッカー",
         "carPrice": "2022年12月発売予定 メーカー希望小売価格 550円(税込)",
         "carImg": "https://www.takaratomy.co.jp/products/tomica/new/images/2212/pic_040_01.jpg",
