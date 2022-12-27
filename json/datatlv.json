@@ -1,6 +1,18 @@
 {
   "datatlv": [
     {
+      "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736324942&num=1",
+      "category": "トミカリミテッドヴィンテージ",
+      "specTitle": "LV-199d ホンダ SM600 オープントップ（メタリックブルー）",
+      "specInfo": "発売時期：2023年5月\n価格：3,300円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：本田技研工業"
+    },
+    {
+      "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736324935&num=1",
+      "category": "トミカリミテッドヴィンテージ",
+      "specTitle": "LV-199c ホンダ S600 オープントップ（黒）",
+      "specInfo": "発売時期：2023年5月\n価格：3,300円（税込）\nスケール：1/64\n自動車の発売年代：1960年代\n自動車メーカー：本田技研工業"
+    },
+    {
     "img": "https://minicar.tomytec.co.jp/common/api/image.php?jancode=4543736321453&num=1",
     "category": "トミカリミテッドヴィンテージ",
     "specTitle": "LV-27c スバル サンバー ライトバン（ブリヂストン）",
